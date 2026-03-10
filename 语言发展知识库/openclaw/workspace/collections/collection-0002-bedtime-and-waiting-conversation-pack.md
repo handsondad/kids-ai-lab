@@ -1,0 +1,51 @@
+---
+doc_type: collection
+id: collection-0002
+title: bedtime_and_waiting_conversation_pack
+title_zh: 等待与睡前对话包
+status: reviewed
+language: zh-CN
+age_stage:
+  - age_24_36m
+  - age_3_4y
+  - age_4_6y
+theme_tags:
+  - bedtime_talk
+  - waiting_support
+  - conversation_boost
+  - no_screen
+included_cards:
+  - stage-0004
+  - practice-0004
+  - practice-0005
+  - practice-0006
+last_reviewed: 2026-03-10
+---
+
+# 专题说明
+
+这个合集适合 2 岁半到学龄前孩子在低材料、无屏幕的场景里练对话。它把两个高频但很容易被浪费的时间段放到一起：等待时的观察和聊天，以及睡前的安静复盘。前者更适合练描述和问答，后者更适合练讲述和顺序组织。
+
+## 推荐顺序
+
+1. 先看 `stage-0004`，理解 2-3 岁往返对话的基本支持方式
+2. 在散步、排队、看书时使用 `practice-0004`，把观察转成对话
+3. 当孩子进入角色扮演期后，增加 `practice-0005` 练社交语言
+4. 到 4-6 岁时，把睡前时间稳定地用 `practice-0006` 练叙事
+
+## 包含卡片
+
+- `stage-0004`: 帮家长理解从短句走向往返对话的阶段重点
+- `practice-0004`: 给出“描述一句，再跟一个轻问题”的等待场景模板
+- `practice-0005`: 用角色扮演把社交语言和对话轮流做起来
+- `practice-0006`: 用睡前回顾把叙事和情绪语言练起来
+
+## 使用建议
+
+- 等待场景里优先轻量、贴眼前，不要连环提问
+- 睡前场景里优先平静、短时、一次只聊一个小事件
+- 如果孩子当天已经很疲惫，就回到描述和陪伴，不必硬做完整练习
+
+## 检索提示
+
+- 等待时怎么聊天，睡前怎么复盘，2 岁半到 6 岁，对话和叙事练习。
