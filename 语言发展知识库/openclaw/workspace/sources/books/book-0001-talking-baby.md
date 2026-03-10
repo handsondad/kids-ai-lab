@@ -56,6 +56,7 @@ last_reviewed: 2026-03-10
 - 第 1 章：何时需要带孩子寻求医学帮助
 - 第 2 章：大多数担心都是孩子发育过程中的正常现象
 - 第 3 章：0-5 岁语言发展阶段概况
+- 第 5 章：声音的海洋；新生儿哭声、听觉偏好、妈妈声音、日常流程对话与回应等待
 - 第 10 页摘录方向：共读时对婴幼儿来说，描述插图比照读文字更重要
 
 以上只是你当前提供的目录片段，完整目录后续还可以继续补充进来。
@@ -70,7 +71,10 @@ last_reviewed: 2026-03-10
 ## 已产出内容
 
 - [note-0003-picture-first-shared-reading](../notes/note-0003-picture-first-shared-reading.md)
+- [note-0004-newborn-hearing-and-maternal-voice](../notes/note-0004-newborn-hearing-and-maternal-voice.md)
+- [note-0005-newborn-conversation-and-response-slots](../notes/note-0005-newborn-conversation-and-response-slots.md)
 - [practice-0007-picture-first-shared-reading](../../practices/age_00_12m/early_literacy/practice-0007-picture-first-shared-reading.md)
+- [practice-0008-care-routine-commentary-with-pauses](../../practices/age_00_12m/joint_attention/practice-0008-care-routine-commentary-with-pauses.md)
 
 ## 下一步建议
 
