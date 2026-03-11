@@ -60,6 +60,7 @@ last_reviewed: 2026-03-10
 - 第 6 章：不经意地开口说话；6周到6个月的含糊音、笑声、语调玩耍、童谣互动和早期共读
 - 第 7 章：宝宝开始说话了吗；6个月到1岁的重复音节、动作词、共同凝视、理解进步和读图翻书
 - 第 8 章：有了！第一个词；1岁到1岁半的首词、安静期、重复活动中的高频词和短句扩展
+- 第 9 章：思考、游戏和语言；象征性游戏、工具使用、一起玩的发展、描述式陪玩和与生活相关的阅读
 - 第 10 页摘录方向：共读时对婴幼儿来说，描述插图比照读文字更重要
 
 以上只是你当前提供的目录片段，完整目录后续还可以继续补充进来。
@@ -82,6 +83,8 @@ last_reviewed: 2026-03-10
 - [note-0009-joint-gaze-gesture-words-and-picture-reading](../notes/note-0009-joint-gaze-gesture-words-and-picture-reading.md)
 - [note-0010-first-real-words-and-uneven-development](../notes/note-0010-first-real-words-and-uneven-development.md)
 - [note-0011-repeat-short-sentences-and-picture-word-links](../notes/note-0011-repeat-short-sentences-and-picture-word-links.md)
+- [note-0012-symbolic-play-tools-memory-and-language](../notes/note-0012-symbolic-play-tools-memory-and-language.md)
+- [note-0013-play-reading-and-describe-instead-of-quizzing](../notes/note-0013-play-reading-and-describe-instead-of-quizzing.md)
 - [practice-0007-picture-first-shared-reading](../../practices/age_00_12m/early_literacy/practice-0007-picture-first-shared-reading.md)
 - [practice-0008-care-routine-commentary-with-pauses](../../practices/age_00_12m/joint_attention/practice-0008-care-routine-commentary-with-pauses.md)
 - [practice-0009-rhyme-pause-and-name-play](../../practices/age_00_12m/early_literacy/practice-0009-rhyme-pause-and-name-play.md)
@@ -90,6 +93,8 @@ last_reviewed: 2026-03-10
 - [practice-0012-shared-looking-and-point-label-talk](../../practices/age_00_12m/joint_attention/practice-0012-shared-looking-and-point-label-talk.md)
 - [practice-0013-repeat-their-word-and-add-one-short-line](../../practices/age_12_18m/expressive_language/practice-0013-repeat-their-word-and-add-one-short-line.md)
 - [practice-0014-out-in-gone-and-again-word-loop](../../practices/age_12_18m/expressive_language/practice-0014-out-in-gone-and-again-word-loop.md)
+- [practice-0015-pretend-object-and-tool-play-talk](../../practices/age_18_24m/expressive_language/practice-0015-pretend-object-and-tool-play-talk.md)
+- [practice-0016-play-beside-describe-and-wait](../../practices/age_18_24m/social_pragmatics/practice-0016-play-beside-describe-and-wait.md)
 
 ## 下一步建议
 
