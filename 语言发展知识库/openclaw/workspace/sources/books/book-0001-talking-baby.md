@@ -59,6 +59,7 @@ last_reviewed: 2026-03-10
 - 第 5 章：声音的海洋；新生儿哭声、听觉偏好、妈妈声音、日常流程对话与回应等待
 - 第 6 章：不经意地开口说话；6周到6个月的含糊音、笑声、语调玩耍、童谣互动和早期共读
 - 第 7 章：宝宝开始说话了吗；6个月到1岁的重复音节、动作词、共同凝视、理解进步和读图翻书
+- 第 8 章：有了！第一个词；1岁到1岁半的首词、安静期、重复活动中的高频词和短句扩展
 - 第 10 页摘录方向：共读时对婴幼儿来说，描述插图比照读文字更重要
 
 以上只是你当前提供的目录片段，完整目录后续还可以继续补充进来。
@@ -79,12 +80,16 @@ last_reviewed: 2026-03-10
 - [note-0007-rhymes-turn-taking-and-early-reading](../notes/note-0007-rhymes-turn-taking-and-early-reading.md)
 - [note-0008-babbling-first-syllables-and-motor-control](../notes/note-0008-babbling-first-syllables-and-motor-control.md)
 - [note-0009-joint-gaze-gesture-words-and-picture-reading](../notes/note-0009-joint-gaze-gesture-words-and-picture-reading.md)
+- [note-0010-first-real-words-and-uneven-development](../notes/note-0010-first-real-words-and-uneven-development.md)
+- [note-0011-repeat-short-sentences-and-picture-word-links](../notes/note-0011-repeat-short-sentences-and-picture-word-links.md)
 - [practice-0007-picture-first-shared-reading](../../practices/age_00_12m/early_literacy/practice-0007-picture-first-shared-reading.md)
 - [practice-0008-care-routine-commentary-with-pauses](../../practices/age_00_12m/joint_attention/practice-0008-care-routine-commentary-with-pauses.md)
 - [practice-0009-rhyme-pause-and-name-play](../../practices/age_00_12m/early_literacy/practice-0009-rhyme-pause-and-name-play.md)
 - [practice-0010-rhythm-first-early-reading](../../practices/age_00_12m/early_literacy/practice-0010-rhythm-first-early-reading.md)
 - [practice-0011-bye-bye-clap-and-peek-play](../../practices/age_00_12m/gesture_communication/practice-0011-bye-bye-clap-and-peek-play.md)
 - [practice-0012-shared-looking-and-point-label-talk](../../practices/age_00_12m/joint_attention/practice-0012-shared-looking-and-point-label-talk.md)
+- [practice-0013-repeat-their-word-and-add-one-short-line](../../practices/age_12_18m/expressive_language/practice-0013-repeat-their-word-and-add-one-short-line.md)
+- [practice-0014-out-in-gone-and-again-word-loop](../../practices/age_12_18m/expressive_language/practice-0014-out-in-gone-and-again-word-loop.md)
 
 ## 下一步建议
 
