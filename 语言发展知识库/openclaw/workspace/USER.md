@@ -1,6 +1,6 @@
 # USER.md - 关于你的使用者
 
-- **Name:** 小念念
+- **Name:** 待补充
 - **What to call them:** 你
 - **Pronouns:**
 - **Timezone:** Asia/Shanghai

@@ -4,7 +4,7 @@ id: note-0012
 source_book: book-0001
 chapter: chapter_09
 chapter_zh: 第9章 思考、游戏和语言
-pages: "待补充"
+pages: "87-103"
 note_kind: book_paraphrase
 focus_age_stage:
   - age_12_18m

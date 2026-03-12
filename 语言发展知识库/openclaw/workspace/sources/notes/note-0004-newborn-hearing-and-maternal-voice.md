@@ -4,7 +4,7 @@ id: note-0004
 source_book: book-0001
 chapter: chapter_05
 chapter_zh: 第5章 声音的海洋
-pages: "待补充"
+pages: "25-35"
 note_kind: book_paraphrase
 focus_age_stage:
   - age_00_06m

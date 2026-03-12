@@ -4,7 +4,7 @@ id: note-0010
 source_book: book-0001
 chapter: chapter_08
 chapter_zh: 第8章 有了！第一个词
-pages: "待补充"
+pages: "69-85"
 note_kind: book_paraphrase
 focus_age_stage:
   - age_12_18m

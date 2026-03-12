@@ -4,7 +4,7 @@ id: note-0014
 source_book: book-0001
 chapter: chapter_10
 chapter_zh: 第10章 单个词阶段：逐渐扩大词汇量
-pages: "待补充"
+pages: "105-121"
 note_kind: book_paraphrase
 focus_age_stage:
   - age_12_18m

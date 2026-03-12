@@ -4,7 +4,7 @@ id: note-0017
 source_book: book-0001
 chapter: chapter_11
 chapter_zh: 第11章 说话的方式
-pages: "待补充"
+pages: "123-145"
 note_kind: book_paraphrase
 focus_age_stage:
   - age_06_12m

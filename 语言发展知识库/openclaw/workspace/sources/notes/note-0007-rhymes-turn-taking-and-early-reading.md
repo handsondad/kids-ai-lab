@@ -4,7 +4,7 @@ id: note-0007
 source_book: book-0001
 chapter: chapter_06
 chapter_zh: 第6章 不经意地开口说话
-pages: "待补充"
+pages: "37-49"
 note_kind: book_paraphrase
 focus_age_stage:
   - age_00_06m

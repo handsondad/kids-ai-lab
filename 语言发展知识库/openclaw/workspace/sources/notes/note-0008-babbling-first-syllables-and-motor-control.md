@@ -4,7 +4,7 @@ id: note-0008
 source_book: book-0001
 chapter: chapter_07
 chapter_zh: 第7章 宝宝开始说话了吗
-pages: "待补充"
+pages: "51-67"
 note_kind: book_paraphrase
 focus_age_stage:
   - age_06_12m
