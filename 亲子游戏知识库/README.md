@@ -17,7 +17,7 @@
 4. 内容天然适合检索：短、直接、答案优先。
 5. 通过结构化摘要而非大段原文摘录，降低版权风险。
 
-## 推荐目录结构
+## 当前目录结构
 
 ```text
 ./
@@ -35,24 +35,44 @@
       TOOLS.md
       HEARTBEAT.md
       _templates/
-        game_card_template.md
-        source_book_template.md
-        source_note_template.md
-        collection_template.md
+        *.md
       taxonomy/
-        taxonomy.md
+        *.md
       sources/
         books/
-          book-demo-001.md
+          book-*.md
         notes/
-          note-demo-001.md
+          note-*.md
       games/
-        age_24_36m/
+        age_00_12m/
+          attention/
+          emotion/
+          fine_motor/
+          gross_motor/
           language/
-            game-demo-001.md
+          sensory/
+          social/
+        age_12_24m/
+          attention/
+          emotion/
+          fine_motor/
+          language/
+          sensory/
+          social/
+        age_24_36m/
+          attention/
+          creativity/
+          emotion/
+          language/
+          math_logic/
+          self_care/
+          sensory/
+          social/
       collections/
-        collection-demo-001.md
+        collection-*.md
 ```
+
+当前仓库已经开始进入真实内容阶段，不再保留示例文件。后续新增内容直接使用真实书籍、真实来源笔记和真实游戏卡。
 
 除非特别说明，下文中出现的 `games/`、`collections/`、`sources/`、`taxonomy/`、`_templates/` 等逻辑路径，默认都以 `./openclaw/workspace/` 为基准。
 
