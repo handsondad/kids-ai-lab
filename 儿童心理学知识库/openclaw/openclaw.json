@@ -1,0 +1,37 @@
+{
+  "agents": {
+    "defaults": {
+      "workspace": "./workspace",
+      "compaction": {
+        "mode": "safeguard"
+      },
+      "maxConcurrent": 4,
+      "subagents": {
+        "maxConcurrent": 8
+      }
+    }
+  },
+  "plugins": {
+    "allow": [
+      "memory-core",
+      "memory-lancedb"
+    ],
+    "allowPaths": [
+      "{用户路径}/.openclaw/extensions/*",
+      "{安装路径}/node_modules/openclaw/extensions/*"
+    ],
+    "requireSignature": false
+  },
+  "memory": {
+    "plugins": [
+      "memory-core",
+      "memory-lancedb"
+    ]
+  },
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto",
+    "restart": true,
+    "ownerDisplay": "raw"
+  }
+}
