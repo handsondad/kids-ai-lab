@@ -19,6 +19,8 @@ derived_cards:
   - practice-0007
   - practice-0013
   - practice-0018
+  - collection-0001
+  - collection-0004
 status: draft
 last_reviewed: 2026-03-11
 ---

@@ -21,6 +21,8 @@ derived_cards:
   - stage-0005
   - practice-0005
   - practice-0015
+  - collection-0002
+  - collection-0004
 status: draft
 last_reviewed: 2026-03-11
 ---

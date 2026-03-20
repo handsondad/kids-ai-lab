@@ -18,6 +18,7 @@ focus_domains:
   - early_literacy
 derived_cards:
   - practice-0007
+  - collection-0004
 status: reviewed
 last_reviewed: 2026-03-10
 ---

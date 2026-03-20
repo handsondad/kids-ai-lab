@@ -158,6 +158,10 @@ last_reviewed: 2026-03-12
 - [practice-0028-answer-a-few-then-close-the-question-game](../../practices/age_3_4y/question_answering/practice-0028-answer-a-few-then-close-the-question-game.md)
 - [practice-0029-let-them-tell-the-familiar-book-back](../../practices/age_4_6y/early_literacy/practice-0029-let-them-tell-the-familiar-book-back.md)
 - [practice-0030-basic-concept-talk-in-play-and-books](../../practices/age_3_4y/receptive_language/practice-0030-basic-concept-talk-in-play-and-books.md)
+- [collection-0001-daily-language-support-12-24m](../../collections/collection-0001-daily-language-support-12-24m.md)
+- [collection-0002-bedtime-and-waiting-conversation-pack](../../collections/collection-0002-bedtime-and-waiting-conversation-pack.md)
+- [collection-0003-responsive-rhythm-and-early-reading-0-12m](../../collections/collection-0003-responsive-rhythm-and-early-reading-0-12m.md)
+- [collection-0004-shared-reading-symbols-and-story-play-18-36m](../../collections/collection-0004-shared-reading-symbols-and-story-play-18-36m.md)
 
 以下既有阶段卡和练习卡也已经接入了这本书的来源笔记：
 

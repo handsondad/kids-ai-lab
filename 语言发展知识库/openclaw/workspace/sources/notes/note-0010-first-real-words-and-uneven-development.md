@@ -15,6 +15,7 @@ focus_domains:
 derived_cards:
   - stage-0002
   - practice-0013
+  - collection-0001
 status: draft
 last_reviewed: 2026-03-11
 ---
