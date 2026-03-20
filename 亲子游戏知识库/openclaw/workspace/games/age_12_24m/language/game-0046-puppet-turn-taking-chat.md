@@ -25,6 +25,7 @@ adult_effort: medium
 safety_level: low
 source_refs:
   - note-0011
+  - note-0061
 aliases:
   - 木偶说一句我接一句
   - 娃娃接话游戏

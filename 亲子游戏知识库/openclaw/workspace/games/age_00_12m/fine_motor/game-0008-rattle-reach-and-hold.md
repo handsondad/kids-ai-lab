@@ -25,6 +25,7 @@ adult_effort: medium
 safety_level: medium
 source_refs:
   - note-0004
+  - note-0035
 aliases:
   - 拨浪鼓抓握
   - 婴儿伸手抓物
@@ -85,4 +86,5 @@ last_reviewed: 2026-03-12
 ## 来源说明
 
 - 来源笔记 ID: `note-0004`
+- 补充来源笔记 ID: `note-0035`
 - 基于第 7 章“伸手抓物游戏”整理

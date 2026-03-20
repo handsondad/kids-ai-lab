@@ -26,6 +26,7 @@ adult_effort: medium
 safety_level: high
 source_refs:
   - note-0008
+  - note-0065
 aliases:
   - 舀水倒水
   - 洗澡盆玩水

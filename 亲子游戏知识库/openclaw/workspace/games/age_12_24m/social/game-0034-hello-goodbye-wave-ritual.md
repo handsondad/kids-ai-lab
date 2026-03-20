@@ -27,6 +27,8 @@ adult_effort: low
 safety_level: low
 source_refs:
   - note-0009
+  - note-0038
+  - note-0044
 aliases:
   - 挥手打招呼
   - 再见仪式
@@ -36,7 +38,7 @@ search_terms:
   - 早上好游戏
   - 分离过渡
   - 礼貌招呼婴儿
-last_reviewed: 2026-03-12
+last_reviewed: 2026-03-16
 ---
 
 # 游戏简介
@@ -92,4 +94,5 @@ last_reviewed: 2026-03-12
 ## 来源说明
 
 - 来源笔记 ID: `note-0009`
+- 补充来源笔记 ID: `note-0038`
 - 基于第 12 章中“多利，早上好！小鸟，再见！”活动整理

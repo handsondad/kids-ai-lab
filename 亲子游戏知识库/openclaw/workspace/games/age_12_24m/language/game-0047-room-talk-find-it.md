@@ -26,6 +26,7 @@ adult_effort: low
 safety_level: low
 source_refs:
   - note-0012
+  - note-0076
 aliases:
   - 卧室客厅说一说
   - 描述性找物

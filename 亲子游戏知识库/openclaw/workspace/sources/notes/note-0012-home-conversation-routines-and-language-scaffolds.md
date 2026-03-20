@@ -2,9 +2,9 @@
 doc_type: source_note
 id: note-0012
 source_book: book-0001
-chapter: chapter_13
-chapter_zh: 第 13 章：日常对话：谢天谢地，不用花钱！
-pages: "待补充"
+chapter: chapter_14
+chapter_zh: 第 14 章：日常对话：谢天谢地，不用花钱！
+pages: "208-230"
 extraction_type: paraphrase
 topic_tags:
   - language
@@ -56,11 +56,11 @@ last_reviewed: 2026-03-12
 
 ## 页码记录
 
-- 第 13 章：《日常对话：谢天谢地，不用花钱！》
+- 第 14 章：《日常对话：谢天谢地，不用花钱！》
 - 营造交流互动的家庭氛围
 - 辅助孩子的语言习得
 - 延伸、扩展、重复、旁白、自言自语、垂直建构、填空
-- 具体页码待按你手头版本补充
+- 目录页可确认本章范围为 208-230 页；当前笔记先按章节范围挂接
 
 ## 备注
 

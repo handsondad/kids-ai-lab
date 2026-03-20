@@ -26,6 +26,8 @@ adult_effort: low
 safety_level: low
 source_refs:
   - note-0009
+  - note-0045
+  - note-0059
 aliases:
   - 来回滚球
   - 轮流滚球球

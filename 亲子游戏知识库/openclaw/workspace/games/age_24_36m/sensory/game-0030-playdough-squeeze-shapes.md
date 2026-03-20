@@ -25,6 +25,7 @@ adult_effort: medium
 safety_level: medium
 source_refs:
   - note-0008
+  - note-0067
 aliases:
   - 面团游戏
   - 搓一搓捏一捏

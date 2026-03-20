@@ -25,6 +25,7 @@ adult_effort: low
 safety_level: low
 source_refs:
   - note-0012
+  - note-0076
 aliases:
   - 延伸扩展说话法
   - 把短句说完整

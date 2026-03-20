@@ -28,6 +28,7 @@ adult_effort: medium
 safety_level: medium
 source_refs:
   - note-0007
+  - note-0023
 aliases:
   - 背带抱抱
   - 贴身散步安抚
@@ -37,7 +38,7 @@ search_terms:
   - 背巾抱娃
   - 抱着做家务
   - 宝宝贴身
-last_reviewed: 2026-03-12
+last_reviewed: 2026-03-16
 ---
 
 # 游戏简介
@@ -92,5 +93,5 @@ last_reviewed: 2026-03-12
 
 ## 来源说明
 
-- 来源笔记 ID: `note-0007`
-- 基于第 10 章中关于“把孩子穿在身上”的内容整理
+- 来源笔记 ID: `note-0007`, `note-0023`
+- 同时参考第 10 章中的贴身抱持，以及《美国金宝贝早教婴儿游戏0-3岁》0月龄及以上“边做家务边游戏”整理

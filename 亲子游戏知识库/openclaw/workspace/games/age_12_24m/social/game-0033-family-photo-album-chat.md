@@ -27,6 +27,7 @@ adult_effort: low
 safety_level: low
 source_refs:
   - note-0009
+  - note-0057
 aliases:
   - 家庭照片相册
   - 看照片说人物

@@ -4,7 +4,7 @@ id: note-0008
 source_book: book-0001
 chapter: chapter_10
 chapter_zh: 第 10 章：肌肤接触：补充维生素“T”
-pages: "待补充"
+pages: "160-174"
 extraction_type: paraphrase
 topic_tags:
   - sensory
@@ -66,7 +66,7 @@ last_reviewed: 2026-03-12
 - 营造一个孩子可以自由触摸的环境
 - 给每一种感官以平等的探索机会
 - 感受物体质地、触摸书、玩水、彩色食物、喷水瓶、面团
-- 具体页码待按你手头版本补充
+- 目录页可确认本章范围为 160-174 页；当前笔记先按章节范围挂接
 
 ## 备注
 

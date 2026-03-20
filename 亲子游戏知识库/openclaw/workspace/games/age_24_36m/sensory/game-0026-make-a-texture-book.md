@@ -27,6 +27,7 @@ adult_effort: medium
 safety_level: medium
 source_refs:
   - note-0008
+  - note-0056
 aliases:
   - 质地书手工
   - 我的小触摸书

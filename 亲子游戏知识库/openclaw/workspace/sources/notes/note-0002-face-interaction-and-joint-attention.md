@@ -4,7 +4,7 @@ id: note-0002
 source_book: book-0001
 chapter: chapter_03
 chapter_zh: 第 3 章：面对面时间，你是孩子第一个玩具
-pages: "待补充"
+pages: "41-59"
 extraction_type: paraphrase
 topic_tags:
   - attention
@@ -50,7 +50,7 @@ last_reviewed: 2026-03-12
 ## 页码记录
 
 - 第 3 章：《面对面时间：你是孩子第一个玩具》
-- 具体页码待按你手头版本补充
+- 目录页可确认本章范围为 41-59 页；当前笔记先按章节范围挂接
 - 关于共同注意、10 到 11 个月婴儿目光追踪和 18 个月语言发展关系的研究线索，待补精确页码
 
 ## 备注

@@ -26,6 +26,7 @@ adult_effort: low
 safety_level: low
 source_refs:
   - note-0004
+  - note-0051
 aliases:
   - 套碗游戏
   - 容器嵌套

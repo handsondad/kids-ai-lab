@@ -26,6 +26,7 @@ adult_effort: medium
 safety_level: medium
 source_refs:
   - note-0004
+  - note-0050
 aliases:
   - 图书配对游戏
   - 图片找实物

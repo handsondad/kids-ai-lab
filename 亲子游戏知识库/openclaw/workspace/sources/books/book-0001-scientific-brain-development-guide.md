@@ -24,6 +24,9 @@ topic_tags:
   - sensory
   - social
   - creativity
+  - fine_motor
+  - gross_motor
+  - math_logic
 ownership: owned
 notes_policy: summary_only
 copyright_note: 仅保留书目信息、结构化摘要和自己的转述，不保留大段原文。
@@ -31,7 +34,7 @@ reference_url: https://book.douban.com/subject/34785181/
 douban_rating: 7.7
 douban_ratings_count: 98
 status: draft
-last_reviewed: 2026-03-12
+last_reviewed: 2026-03-13
 ---
 
 # 书籍定位
@@ -40,7 +43,7 @@ last_reviewed: 2026-03-12
 
 对这套亲子游戏知识库来说，这本书很适合作为 0-3 岁游戏设计的理论来源书。它尤其适合继续拆解成注意力支持、情绪回应、语言互动和亲子连接类游戏。
 
-当前这张来源卡已经补齐了基础书目信息，但具体章节页码和精确摘录点仍建议按你手头版本继续核对，所以保持 `draft` 状态更稳妥。
+当前这张来源卡已经补齐了基础书目信息和目录页码；由于大多数 note 当前挂接的是章节范围页而不是更细的摘录页，所以保持 `draft` 状态更稳妥。
 
 ## 已确认的核心线索
 
@@ -65,7 +68,11 @@ last_reviewed: 2026-03-12
 - 第九章《回应性抚育：调到对方的频道》：适合拆成气质观察、回应性安抚、慰藉物、规律作息和家庭仪式类来源笔记
 - 第十章《肌肤接触：补充维生素“T”》：适合拆成贴肤抱持、背带安抚、婴儿抚触、触摸书、玩水和低成本感官探索类来源笔记
 - 第十二章《增进亲子联结的活动》：适合拆成联结共读、预测与惊喜、家庭相册、打招呼仪式、轮流互动、家庭归属、角色扮演和共享回忆类来源笔记
-- 第十三章《日常对话：谢天谢地，不用花钱！》：适合拆成边做边说、宝爸宝妈腔、轮流对话、家庭语言环境和语言支架类来源笔记
+- 第十三章《C代表交流：为什么交流很重要》：适合作为交流部分总纲，提炼语言输入、阅读、音乐和交流活动之间的整体框架
+- 第十四章《日常对话：谢天谢地，不用花钱！》：适合拆成边做边说、宝爸宝妈腔、轮流对话、家庭语言环境和语言支架类来源笔记
+- 第十五章《日常阅读：苏斯博士说得对》：适合拆成短时共读常规、书本触摸与阅读角、环境文字、行文惯例、对话式阅读和表演式阅读类来源笔记
+- 第十六章《日常音乐：莫扎特的神话与事实》：适合拆成摇篮曲和场景歌谣、手指谣和动作歌、无词音乐故事、节奏概念体验以及兴趣导向的音乐接触类来源笔记
+- 第十七章《孩子们喜欢的交流活动》：适合拆成新生儿韵律互动、6-18 个月配对与低龄对话书、18-36 个月电话和规律活动、故事涂鸦与环境文字匹配类来源笔记
 - 内容简介中明确提到的亲子联结主题：适合拆成回应式陪伴、安抚、轮流互动类游戏
 - 内容简介中明确提到的交流能力主题：适合拆成语言命名、问答互动、模仿表达类游戏
 
@@ -73,19 +80,31 @@ last_reviewed: 2026-03-12
 
 - 《关于本书》：孩子真正需要的很简单，就是 ABC
 - 《引言》
-- 第一部分《大脑的真相》
-- 第 1 章：每个家长都应该知道的五个“哇哦”
-- 第 3 章：《面对面时间：你是孩子第一个玩具》
-- 第 4 章：《玩耍时间：玩耍的真实功能》
-- 第 7 章：《孩子喜欢的注意力训练活动》
-- 第 9 章：《回应性抚育：调到对方的频道》
-- 第 10 章：《肌肤接触：补充维生素“T”》
-- 第 12 章：《增进亲子联结的活动》
-- 第 13 章：《日常对话：谢天谢地，不用花钱！》
-- 第二部分《注意力》
-- 你提供的原文摘录线索对应第 25 页，内容与注意力系统的三个组成部分有关
+- 第一部分《大脑的真相》：1
+- 第 1 章：《每个家长都应该知道的五个“哇哦”》：2
+- 第二部分《注意力》：23
+- 第 2 章：《A代表注意力：为什么这很重要》：24
+- 第 3 章：《面对面时间：你是孩子的第一个玩具》：41
+- 第 4 章：《玩耍时间：玩耍的真实功能》：60
+- 第 5 章：《屏幕时间：当孩子遇到现代生活》：78
+- 第 6 章：《休工时间：“无所事事”也很重要》：98
+- 第 7 章：《孩子喜欢的注意力训练活动》：110
+- 第三部分《亲子联结》：123
+- 第 8 章：《B代表亲子联结：为什么亲子联结很重要》：124
+- 第 9 章：《回应性抚育：调到对方的频道》：143
+- 第 10 章：《肌肤接触：补充维生素“T”》：160
+- 第 11 章：《找托管班：如何充分考虑大脑发育的需求》：175
+- 第 12 章：《增进亲子联结的活动》：187
+- 第四部分《交流》：197
+- 第 13 章：《C代表交流：为什么交流很重要》：198
+- 第 14 章：《日常对话：谢天谢地，不用花钱！》：208
+- 第 15 章：《日常阅读：苏斯博士说得对》：231
+- 第 16 章：《日常音乐：莫扎特的神话与事实》：248
+- 第 17 章：《孩子们喜欢的交流活动》：260
+- 《后记》：276
+- 《附录》：279
 
-后续如果你继续补充完整目录，我可以把这张来源卡再细化成更清晰的章节拆解计划。
+当前目录页码已按你提供的版本补齐；如果后续发现版次差异，再按实物页调整即可。
 
 ## 第三章新增笔记：面对面时间，你是孩子第一个玩具
 
@@ -249,7 +268,7 @@ last_reviewed: 2026-03-12
 - 家庭人物与成长叙事：适合拆成相册、生日故事和人物介绍类卡片
 - 角色扮演降低焦虑：适合拆成看医生、新活动预演和共享想象类卡片
 
-## 第十三章新增笔记：日常对话：谢天谢地，不用花钱！
+## 第十四章新增笔记：日常对话：谢天谢地，不用花钱！
 
 ### 核心摘要
 
@@ -273,6 +292,84 @@ last_reviewed: 2026-03-12
 - 家庭语言环境：适合拆成卧室、卫生间、厨房和客厅的话语卡
 - 语言支架：适合拆成延伸扩展和留空填词两类卡片
 
+## 第十五章新增笔记：日常阅读：苏斯博士说得对
+
+### 核心摘要
+
+- 这一章强调，阅读最好被看作日常经历，而不是偶尔举行的特别活动。对很小的孩子来说，一次几分钟、一天两三次，往往比一次读很久更合适，也更容易和午睡前、睡前、安静游戏后这些时段连起来。
+- 阅读带来的不只是词汇量和听觉输入，还包括孩子对“书本是什么”“文字和图画有什么不同”“文字为什么有意义”“文字在生活里能做什么”的逐步理解。阅读经验本身，就是孩子进入符号世界的入口。
+- 书里很重视书本的可接近性和可操作性。孩子需要有熟悉可重读的书，也需要接触新书；家里最好有顺手可拿的书角，而低龄阶段撕、咬、乱翻和摸书，也都应被看作参与而不是破坏。
+- 环境文字是这一章的重要线索。孩子会先在包装、招牌和标识里感受到文字的社会功能，再逐步从整体形状和颜色走向更抽象的符号理解。图画、文字、真实物体之间的代表关系，就是早期识读能力的底层。
+- 这章后半部分把高质量阅读互动讲得很清楚：边读边问、边读边演、按照孩子当前阶段选择书和阅读方式，以及让孩子看见大人也在读。这些都在帮助阅读从“被要求”变成“被模仿、被参与、被期待”的事情。
+
+### 对家庭实践最有价值的线索
+
+- 建立阅读常规时，优先短时高频，不追求一次坐很久。
+- 家庭阅读环境的关键不是书多，而是书够顺手、够安全、够愿意被反复翻。
+- 对低龄孩子，摸书、翻书、咬书和乱翻都可以是进入阅读的正常路径。
+- 环境文字和行文惯例更适合放在真实阅读和真实生活里顺手指出，而不是提前训练。
+- 对 2-3 岁孩子，对话式阅读和表演式阅读比单向朗读更容易拉长参与时间。
+
+### 适合继续拆分的知识单元
+
+- 日常阅读常规：适合拆成短时共读、睡前阅读和熟书重读类卡片
+- 阅读环境与书本接触：适合拆成书角、阅读巢穴和耐翻材质书类卡片
+- 环境文字与行文惯例：适合拆成招牌识别、图画和文字区分、页码和方向感类卡片
+- 阅读互动技巧：适合拆成对话式阅读、表演式阅读和按阶段读图类卡片
+- 成人示范：适合拆成借书、翻书和家庭可见阅读类卡片
+
+## 第十六章新增笔记：日常音乐：莫扎特的神话与事实
+
+### 核心摘要
+
+- 这一章把“音乐能不能让孩子更聪明”这个大问题拆得更实际。作者承认很多研究聚焦在正式乐器训练上，但对普通家庭来说，最容易开始、也最值得长期坚持的入口，是唱歌、童谣、手指谣和日常节奏互动。
+- 书里提到，婴儿在大人唱歌时能维持注意，摇篮曲之所以普遍存在，是因为它们本来就由少量旋律、重复模式和身体摇晃构成，很适合用来安抚和同步节奏。这里真正重要的不是唱得多专业，而是重复、熟悉和关系里的同步。
+- 这一章后半部分把音乐从“听”扩展到“动”和“想象”。手指歌谣、身体动作歌、无歌词音乐编故事，以及对快慢、轻重、节奏强弱的身体反应，都说明音乐经验和动作控制、注意、情感交流、想象力可以放在一起发展。
+- 作者对正式培训的态度比较温和：如果有兴趣和条件，可以在 2 岁半到 3 岁以后接触音乐课或乐器，但前提必须是孩子真实表现出兴趣，而不是被勉强推进。现场演奏、玩具键盘和先听先哼节奏，都可以作为更低压力的前置接触。
+- 这一章也明确反对家长因此自责。没有上音乐课、没有尽早学琴，并不等于错过了什么不可逆窗口。家庭中的歌声、节奏和愉快经验，本身就已经是有价值的音乐输入。
+
+### 对家庭实践最有价值的线索
+
+- 最低门槛的音乐活动，是唱，而不是买设备。
+- 固定摇篮曲、场景童谣和手指谣，特别适合 0-3 岁家庭长期高频重复。
+- 孩子对节奏的反应，常常先表现为拍、晃、跳、停，再慢慢变成概念和模仿。
+- 现场演奏和真实乐器试玩，比家长替孩子决定“学不学”更能帮助判断兴趣。
+- 音乐训练应以乐在其中为前提，不要勉强，也不必愧疚。
+
+### 适合继续拆分的知识单元
+
+- 摇篮曲与场景歌谣：适合拆成睡前、出门、厨房和天气观察的短歌卡
+- 手指谣与动作歌：适合拆成拍手、碰身体、轮流动作和身体部位歌卡
+- 音乐想象与节奏体验：适合拆成无词音乐故事和快慢轻重身体反应卡
+- 音乐兴趣观察：适合拆成现场演奏、适龄小乐器和节奏模仿前置卡
+- 培训判断：适合拆成试听观察、不勉强原则和低压力课程选择卡
+
+## 第十七章新增笔记：孩子们喜欢的交流活动
+
+### 核心摘要
+
+- 这一章把“交流活动”写成一条很长的发展线，从新生儿对声音、节奏和再出现的反应，一路走到幼儿期的玩具电话、规律排列、环境文字和故事涂鸦。它的核心不是让孩子尽早说很多话，而是通过声音、图像、动作、规则和象征性道具，让孩子越来越会把注意、意义和表达组织起来。
+- 对新生儿和低月龄孩子，脚铃、押韵身体书、傻歌和躲猫猫这些活动最重要的价值，在于它们把重复模式做得很清楚。大脑会在韵律、押韵、再出现和因果关系里寻找稳定结构，这正是早期语言和符号学习的基础之一。
+- 到 6-18 个月，交流活动开始更明确地和配对、共读以及环境文字第一阶段连起来。颜色配对训练异同辨别，童谣停顿训练来回互动，与书对话帮助孩子把日常物体和词语连起来，而真实包装和标识则让孩子开始意识到符号代表现实中的东西。
+- 到 18-36 个月，活动进一步扩展到象征性交流、规律模式和早期写作体验。玩具电话让孩子在道具支持下更轻松地开口，规律串珠和触觉多米诺让他练习找相同和照样做，故事涂鸦则把“我画的痕迹有意义”这件事真正做了出来。
+- 这一章整体很重要，因为它把早期交流、阅读前能力、模式感和标记意义都放进一个连续视角里，让家长看到：很多看起来像玩的小活动，其实都在帮孩子建立后面理解图、字、符号和叙事的底层结构。
+
+### 对家庭实践最有价值的线索
+
+- 对低月龄孩子，交流可以从韵律、节奏、再出现和身体发现开始。
+- 配对和规律活动不只是“玩分类”，它们本身就是后续读写和数学前技能的基础。
+- 低龄共读最重要的不是故事复杂，而是孩子能看清、摸到、听到并和你有来回。
+- 道具和假装能显著降低幼儿开口压力，玩具电话是典型入口。
+- 画线、涂鸦、讲故事和标识匹配，都是早期“符号有意义”的具体体验。
+
+### 适合继续拆分的知识单元
+
+- 新生儿交流模式：适合拆成脚铃、身体押韵书、傻歌和躲猫猫类卡片
+- 婴儿期对话开启：适合拆成颜色配对、停顿接唱和一页一物对话书类卡片
+- 象征性交流与规律：适合拆成玩具电话、规律串珠和触觉多米诺类卡片
+- 节奏与声音探索：适合拆成厨房鼓和简单节奏模仿类卡片
+- 早期读写准备：适合拆成故事涂鸦、粉笔线条和环境文字卡片匹配类卡片
+
 ## 摘录原则
 
 - 每次只摘一个明确主题，先写自己的摘要，再拆游戏卡
@@ -283,7 +380,7 @@ last_reviewed: 2026-03-12
 
 ## 已产出内容
 
-- [note-0001-情绪命名与回应](../notes/note-0001-emotion-naming-and-response.md)
+- [note-0001-情绪命名与回应（书级主题草稿）](../notes/note-0001-emotion-naming-and-response.md)
 - [note-0002-面部互动与共同注意](../notes/note-0002-face-interaction-and-joint-attention.md)
 - [note-0003-玩耍功能与注意力支架](../notes/note-0003-play-functions-and-attention-scaffolds.md)
 - [note-0004-注意力训练活动](../notes/note-0004-attention-training-activities.md)
@@ -295,6 +392,16 @@ last_reviewed: 2026-03-12
 - [note-0010-家庭归属、角色扮演与共享回忆](../notes/note-0010-family-belonging-role-play-and-shared-memories.md)
 - [note-0011-日常输入、宝爸宝妈腔与轮流对话](../notes/note-0011-daily-language-input-parentese-and-turn-taking.md)
 - [note-0012-家庭对话氛围与语言支架](../notes/note-0012-home-conversation-routines-and-language-scaffolds.md)
+- [note-0013-日常阅读常规、书本可及性与触摸参与](../notes/note-0013-daily-reading-routines-book-access-and-touch.md)
+- [note-0014-环境文字、行文惯例与具象思维](../notes/note-0014-print-awareness-environment-text-and-symbolic-thinking.md)
+- [note-0015-对话式阅读、表演阅读与阅读示范](../notes/note-0015-dialogic-reading-story-performance-and-reading-models.md)
+- [note-0016-唱歌、摇篮曲与场景歌谣](../notes/note-0016-singing-lullabies-and-routine-rhymes.md)
+- [note-0017-手指谣、音乐故事与节奏反应](../notes/note-0017-fingerplays-musical-stories-and-rhythm-response.md)
+- [note-0018-兴趣导向的音乐接触与低压力培训](../notes/note-0018-interest-led-music-exposure-and-low-pressure-lessons.md)
+- [note-0019-新生儿韵律互动、身体游戏与客体永久性](../notes/note-0019-newborn-rhythm-body-play-and-object-permanence.md)
+- [note-0020-婴儿配对、低龄对话书与环境文字第一阶段](../notes/note-0020-infant-book-talk-matching-and-first-environment-print.md)
+- [note-0021-幼儿象征性交流、规律与节奏探索](../notes/note-0021-toddler-symbolic-conversation-patterns-and-rhythm.md)
+- [note-0022-涂鸦叙事与环境文字第二阶段](../notes/note-0022-mark-making-storytelling-and-environment-print-stage-two.md)
 - [game-0002-摇铃眼神跟踪](../../games/age_00_12m/attention/game-0002-rattle-eye-tracking.md)
 - [game-0003-俯卧照镜子](../../games/age_00_12m/gross_motor/game-0003-tummy-time-mirror.md)
 - [game-0004-色彩图卡慢慢读](../../games/age_00_12m/language/game-0004-color-board-book-reading.md)
@@ -304,18 +411,29 @@ last_reviewed: 2026-03-12
 - [game-0008-拨浪鼓伸手抓握](../../games/age_00_12m/fine_motor/game-0008-rattle-reach-and-hold.md)
 - [game-0016-频道对一对](../../games/age_00_12m/emotion/game-0016-channel-matching-checkin.md)
 - [game-0017-轻声慢唱安抚](../../games/age_00_12m/emotion/game-0017-soft-voice-song-soothe.md)
+- [game-0063-摇一摇慢慢唱](../../games/age_00_12m/emotion/game-0063-lullaby-sway-and-hum.md)
 - [game-0021-胸贴胸静静抱](../../games/age_00_12m/sensory/game-0021-chest-to-chest-skin-time.md)
 - [game-0022-背带安抚散步](../../games/age_00_12m/sensory/game-0022-babywearing-reassurance-walk.md)
 - [game-0023-婴儿按摩身体对话](../../games/age_00_12m/sensory/game-0023-infant-massage-body-talk.md)
 - [game-0025-触摸书共读](../../games/age_00_12m/sensory/game-0025-touch-and-feel-book-chat.md)
+- [game-0072-脚铃发现小脚](../../games/age_00_12m/sensory/game-0072-jingle-socks-foot-discovery.md)
 - [game-0031-宝宝听故事](../../games/age_00_12m/social/game-0031-love-story-lap-reading.md)
 - [game-0043-边做边说换洗聊](../../games/age_00_12m/language/game-0043-change-feed-and-chat.md)
 - [game-0044-一路唠唠家常](../../games/age_00_12m/language/game-0044-ride-and-routine-chatter.md)
 - [game-0045-宝爸宝妈腔慢慢说](../../games/age_00_12m/language/game-0045-parentese-slow-and-warm.md)
 - [game-0048-洗澡话语歌](../../games/age_00_12m/language/game-0048-bath-talk-song.md)
+- [game-0052-短时多次读一读](../../games/age_00_12m/language/game-0052-short-and-steady-book-routine.md)
+- [game-0054-摸摸翻翻不怕书](../../games/age_00_12m/language/game-0054-touch-turn-and-chew-safe-books.md)
+- [game-0060-边读边演有声故事](../../games/age_00_12m/language/game-0060-voice-face-and-motion-read.md)
+- [game-0064-车上厨房顺手唱](../../games/age_00_12m/language/game-0064-routine-rhyme-drop-ins.md)
+- [game-0073-身体押韵书摸摸看](../../games/age_00_12m/language/game-0073-body-rhyme-book-touch-talk.md)
+- [game-0074-换洗照料傻歌](../../games/age_00_12m/language/game-0074-routine-silly-song.md)
+- [game-0076-名字编进歌里等你接](../../games/age_00_12m/language/game-0076-name-in-the-rhyme-pause.md)
+- [game-0077-一页一物对话书](../../games/age_00_12m/language/game-0077-one-page-object-book-talk.md)
 - [game-0009-图卡实物配对](../../games/age_12_24m/fine_motor/game-0009-board-book-object-match.md)
 - [game-0010-勺挖倾倒](../../games/age_12_24m/fine_motor/game-0010-scoop-and-pour.md)
 - [game-0011-藏物捉迷藏](../../games/age_12_24m/attention/game-0011-hidden-toy-hunt.md)
+- [game-0075-彩环慢慢配一对](../../games/age_12_24m/attention/game-0075-color-ring-pairing-mat.md)
 - [game-0018-安心小物陪伴](../../games/age_12_24m/emotion/game-0018-comfort-object-pairing.md)
 - [game-0024-日常质地摸一摸](../../games/age_12_24m/sensory/game-0024-daily-texture-touch-talk.md)
 - [game-0027-玩水体验站](../../games/age_12_24m/sensory/game-0027-water-sensory-station.md)
@@ -324,19 +442,30 @@ last_reviewed: 2026-03-12
 - [game-0033-我的相册](../../games/age_12_24m/social/game-0033-family-photo-album-chat.md)
 - [game-0034-早上好，再见](../../games/age_12_24m/social/game-0034-hello-goodbye-wave-ritual.md)
 - [game-0035-滚啊滚，滚球球](../../games/age_12_24m/social/game-0035-roll-ball-turn-taking-song.md)
+- [game-0065-拍一拍手指谣](../../games/age_12_24m/social/game-0065-clap-and-finger-rhyme-turns.md)
+- [game-0066-身体歌跟着做](../../games/age_12_24m/social/game-0066-body-part-beat-song.md)
 - [game-0046-木偶轮流接话](../../games/age_12_24m/language/game-0046-puppet-turn-taking-chat.md)
 - [game-0047-房间里找一找说一说](../../games/age_12_24m/language/game-0047-room-talk-find-it.md)
 - [game-0049-厨房边做边说](../../games/age_12_24m/language/game-0049-kitchen-talk-helper.md)
+- [game-0057-出门认认招牌字](../../games/age_12_24m/language/game-0057-sign-and-logo-noticing-walk.md)
+- [game-0078-盒子袋子过家家](../../games/age_12_24m/language/game-0078-brand-box-pretend-label-talk.md)
 - [game-0012-快乐筑巢](../../games/age_24_36m/math_logic/game-0012-nesting-bowls.md)
 - [game-0013-配对大小和形状](../../games/age_24_36m/math_logic/game-0013-size-and-shape-match.md)
+- [game-0080-串珠照样排](../../games/age_24_36m/math_logic/game-0080-snap-bead-pattern-copy.md)
+- [game-0081-摸摸袋里多米诺](../../games/age_24_36m/math_logic/game-0081-tactile-domino-bag-match.md)
 - [game-0014-杂货店线索找物](../../games/age_24_36m/attention/game-0014-grocery-clue-search.md)
 - [game-0015-颜色形状找找看](../../games/age_24_36m/attention/game-0015-color-and-shape-search.md)
+- [game-0069-家里来一场小演奏](../../games/age_24_36m/attention/game-0069-living-room-mini-concert-watch.md)
+- [game-0071-先听先哼节奏句](../../games/age_24_36m/attention/game-0071-listen-then-hum-rhythm-phrase.md)
 - [game-0001-表情镜子](../../games/age_24_36m/emotion/game-0001-emotion-mirror.md)
 - [game-0019-睡前三步安心流程](../../games/age_24_36m/self_care/game-0019-three-step-bedtime-routine.md)
 - [game-0020-家庭小仪式日](../../games/age_24_36m/self_care/game-0020-family-ritual-anchor.md)
 - [game-0026-制作一本触摸书](../../games/age_24_36m/sensory/game-0026-make-a-texture-book.md)
 - [game-0029-喷水瓶墙画](../../games/age_24_36m/sensory/game-0029-spray-bottle-wall-art.md)
 - [game-0030-面团捏一捏](../../games/age_24_36m/sensory/game-0030-playdough-squeeze-shapes.md)
+- [game-0068-快慢轻重动一动](../../games/age_24_36m/sensory/game-0068-fast-slow-loud-soft-move.md)
+- [game-0070-玩具琴和小乐器试一试](../../games/age_24_36m/sensory/game-0070-toy-keyboard-and-sound-trial.md)
+- [game-0083-厨房鼓敲一敲](../../games/age_24_36m/sensory/game-0083-kitchen-bowl-drum-lab.md)
 - [game-0036-辨认家庭成员](../../games/age_24_36m/social/game-0036-family-doll-story-circle.md)
 - [game-0037-学爸妈扫地](../../games/age_24_36m/self_care/game-0037-sweep-the-square-helper.md)
 - [game-0038-建个隐蔽小屋](../../games/age_24_36m/emotion/game-0038-cozy-hideout-fort.md)
@@ -344,8 +473,20 @@ last_reviewed: 2026-03-12
 - [game-0040-你的泰迪会做哦](../../games/age_24_36m/creativity/game-0040-teddy-shows-you-how.md)
 - [game-0041-生日回忆书](../../games/age_24_36m/social/game-0041-birthday-memory-retell.md)
 - [game-0042-破茧化蝶](../../games/age_24_36m/creativity/game-0042-cocoon-to-butterfly-play.md)
+- [game-0067-无词音乐编故事](../../games/age_24_36m/creativity/game-0067-instrumental-story-with-gestures.md)
+- [game-0082-路边粉笔画线跳](../../games/age_24_36m/creativity/game-0082-sidewalk-chalk-lines-and-hops.md)
+- [game-0084-故事涂鸦我来记](../../games/age_24_36m/creativity/game-0084-story-scribble-dictation.md)
 - [game-0050-接住他说长一点](../../games/age_24_36m/language/game-0050-echo-and-expand-chat.md)
 - [game-0051-留个空等你填](../../games/age_24_36m/language/game-0051-pause-and-fill-the-last-word.md)
+- [game-0053-顺手能拿的书角](../../games/age_24_36m/language/game-0053-reachable-book-corner-and-basket.md)
+- [game-0055-阅读巢穴故事帐篷](../../games/age_24_36m/language/game-0055-reading-nest-story-tent.md)
+- [game-0056-图画文字页码看一看](../../games/age_24_36m/language/game-0056-words-pictures-and-pages-point-out.md)
+- [game-0058-从包装到词语的识字梯](../../games/age_24_36m/language/game-0058-real-box-to-word-ladder.md)
+- [game-0059-边读边问故事聊](../../games/age_24_36m/language/game-0059-question-stop-story-chat.md)
+- [game-0061-看图先讲一讲](../../games/age_24_36m/language/game-0061-picture-walk-tell-it-your-way.md)
+- [game-0062-让孩子看见你读书](../../games/age_24_36m/language/game-0062-let-me-see-you-read.md)
+- [game-0079-玩具电话你好呀](../../games/age_24_36m/language/game-0079-toy-phone-hello-chat.md)
+- [game-0085-标识卡配实物](../../games/age_24_36m/language/game-0085-logo-card-object-match.md)
 - [collection-0001-0-1岁面对面与感官注意力游戏](../../collections/collection-0001-infant-face-and-sensory-attention.md)
 - [collection-0002-1-2岁动手操作与找一找游戏](../../collections/collection-0002-toddler-hands-on-and-search.md)
 - [collection-0003-2-3岁安静专注与视觉分辨游戏](../../collections/collection-0003-toddler-visual-discrimination-and-focus.md)
@@ -353,19 +494,17 @@ last_reviewed: 2026-03-12
 - [collection-0005-0-3岁肌肤接触与触觉探索游戏](../../collections/collection-0005-touch-and-sensory-exploration.md)
 - [collection-0006-0-3岁亲子联结与家庭归属游戏](../../collections/collection-0006-bonding-and-belonging-activities.md)
 - [collection-0007-0-3岁日常对话与语言支架游戏](../../collections/collection-0007-daily-talk-and-language-scaffolds.md)
+- [collection-0008-0-3岁日常阅读与环境文字游戏](../../collections/collection-0008-daily-reading-and-print-awareness.md)
+- [collection-0009-0-3岁日常音乐与节奏游戏](../../collections/collection-0009-daily-music-and-rhythm-play.md)
+- [collection-0010-0-3岁交流活动与早期读写准备](../../collections/collection-0010-communication-and-preliteracy-activities.md)
 
 ## 下一步建议
 
-- 优先按你手头版本补齐第 3、4、7、9、10、12、13 章的精确页码，逐步把相关 note 和 game card 提升到 `reviewed`
-- 可以基于第 4 章继续补一张“地垫时间”或“看的方法”的来源笔记，用来沉淀注意力支架技巧
-- 可以继续根据使用频率，把现有合集卡进一步细分成“外出搜索”“睡前安静互动”“0-6 个月面对面互动”等更窄专题
-- 可以基于第 9 章继续细分“慢热孩子过渡支持”“睡前故事脚本”“家庭仪式点子库”等更细专题
-- 可以基于第 10 章继续细分“新生儿贴肤安抚”“触摸书系列”“厨房感官活动”等更细专题
-- 可以基于第 12 章继续细分“分离重逢脚本”“成长回忆书”“看医生前预演”等更细专题
-- 可以基于第 13 章继续细分“新生儿边做边说”“双语家庭输入”“2-3 岁语言支架脚本”等更细专题
-- 等你补齐完整目录后，再把这本书按“注意力 / 联结 / 交流能力”三条主线系统化展开
+- 如果后续要把来源层提升到 `reviewed`，优先把现有章节范围页继续细化为更精确的摘录页
+- 可以继续根据使用频率，把现有合集细分成更窄专题，例如“外出搜索”“睡前安静互动”“0-6 个月面对面互动”或“环境文字散步路线”
+- 也可以在现有基础上再做一张按“注意力 / 联结 / 交流”三条主线组织的总览型 collection 或 source map
 
 ## 备注
 
-- 当前卡片为可用草稿，基础书目信息已补齐，但章节页码仍建议按你手头版本核对
-- 后续如果你给我该书完整目录、章节照片或读书笔记，我可以继续把这本书系统拆成多张 source note 和 game card
+- 当前卡片为可用草稿，基础书目信息和目录页码已补齐；多数 note 当前记录的是章节范围页
+- `note-0001` 当前被保留为书级主题草稿，用来承接“情绪命名与回应”这类跨章节方向，不参与单章页码映射

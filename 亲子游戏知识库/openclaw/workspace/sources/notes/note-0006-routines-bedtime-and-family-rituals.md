@@ -4,7 +4,7 @@ id: note-0006
 source_book: book-0001
 chapter: chapter_09
 chapter_zh: 第 9 章：回应性抚育：调到对方的频道
-pages: "待补充"
+pages: "143-159"
 extraction_type: paraphrase
 topic_tags:
   - self_care
@@ -56,7 +56,7 @@ last_reviewed: 2026-03-12
 - 让孩子的生活有规律
 - 睡觉时间与熟悉故事
 - 创立新家规和家庭仪式
-- 具体页码待按你手头版本补充
+- 目录页可确认本章范围为 143-159 页；当前笔记先按章节范围挂接
 
 ## 备注
 

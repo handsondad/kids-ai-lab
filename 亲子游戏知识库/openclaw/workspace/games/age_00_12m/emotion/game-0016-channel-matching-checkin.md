@@ -27,6 +27,8 @@ adult_effort: low
 safety_level: low
 source_refs:
   - note-0005
+  - note-0038
+  - note-0044
 aliases:
   - 气质频道对一对
   - 先看再回应
@@ -36,7 +38,7 @@ search_terms:
   - 共调节
   - 慢热孩子
   - 过渡困难
-last_reviewed: 2026-03-12
+last_reviewed: 2026-03-16
 ---
 
 # 游戏简介
@@ -93,4 +95,5 @@ last_reviewed: 2026-03-12
 ## 来源说明
 
 - 来源笔记 ID: `note-0005`
+- 补充来源笔记 ID: `note-0038`
 - 基于第 9 章“回应性抚育：调到对方的频道”整理

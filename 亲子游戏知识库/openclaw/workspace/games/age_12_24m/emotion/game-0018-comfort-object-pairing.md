@@ -28,6 +28,8 @@ adult_effort: low
 safety_level: medium
 source_refs:
   - note-0005
+  - note-0038
+  - note-0044
 aliases:
   - 慰藉物陪伴
   - 过渡性物件
@@ -37,7 +39,7 @@ search_terms:
   - 过渡性物件
   - 分离焦虑
   - 睡前安抚
-last_reviewed: 2026-03-12
+last_reviewed: 2026-03-16
 ---
 
 # 游戏简介
@@ -94,4 +96,5 @@ last_reviewed: 2026-03-12
 ## 来源说明
 
 - 来源笔记 ID: `note-0005`
+- 补充来源笔记 ID: `note-0038`
 - 基于第 9 章中关于慰藉物和过渡性物件的内容整理

@@ -25,6 +25,9 @@ adult_effort: low
 safety_level: low
 source_refs:
   - note-0004
+  - note-0051
+  - note-0067
+  - note-0074
 aliases:
   - 形状配对
   - 大小配对

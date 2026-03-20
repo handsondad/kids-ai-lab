@@ -4,7 +4,7 @@ id: note-0007
 source_book: book-0001
 chapter: chapter_10
 chapter_zh: 第 10 章：肌肤接触：补充维生素“T”
-pages: "待补充"
+pages: "160-174"
 extraction_type: paraphrase
 topic_tags:
   - sensory
@@ -58,7 +58,7 @@ last_reviewed: 2026-03-12
 - 多抱一抱孩子
 - 露一点肌肤出来
 - 学一学婴儿抚触
-- 具体页码待按你手头版本补充
+- 目录页可确认本章范围为 160-174 页；当前笔记先按章节范围挂接
 
 ## 备注
 

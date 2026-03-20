@@ -26,6 +26,8 @@ adult_effort: medium
 safety_level: low
 source_refs:
   - note-0010
+  - note-0063
+  - note-0073
 aliases:
   - 小帮手扫地
   - 方框扫纸片

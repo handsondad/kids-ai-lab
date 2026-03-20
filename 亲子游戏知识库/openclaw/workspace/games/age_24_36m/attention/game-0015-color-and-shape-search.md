@@ -25,6 +25,7 @@ adult_effort: low
 safety_level: low
 source_refs:
   - note-0004
+  - note-0074
 aliases:
   - 找颜色游戏
   - 找形状游戏

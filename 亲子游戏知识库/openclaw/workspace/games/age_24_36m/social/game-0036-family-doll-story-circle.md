@@ -26,6 +26,7 @@ adult_effort: medium
 safety_level: low
 source_refs:
   - note-0010
+  - note-0064
 aliases:
   - 家庭娃娃游戏
   - 讲讲家里的人

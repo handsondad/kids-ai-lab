@@ -4,7 +4,7 @@ id: note-0005
 source_book: book-0001
 chapter: chapter_09
 chapter_zh: 第 9 章：回应性抚育：调到对方的频道
-pages: "待补充"
+pages: "143-159"
 extraction_type: paraphrase
 topic_tags:
   - emotion
@@ -63,7 +63,7 @@ last_reviewed: 2026-03-12
 - 九种气质特质与行为表现
 - 简单小事消除孩子紧张感
 - 过渡性物件与自我安抚
-- 具体页码待按你手头版本补充
+- 目录页可确认本章范围为 143-159 页；当前笔记先按章节范围挂接
 
 ## 备注
 

@@ -26,6 +26,7 @@ adult_effort: low
 safety_level: low
 source_refs:
   - note-0010
+  - note-0063
 aliases:
   - 泰迪先示范
   - 玩偶教你做

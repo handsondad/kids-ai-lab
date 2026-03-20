@@ -26,6 +26,7 @@ adult_effort: low
 safety_level: low
 source_refs:
   - note-0008
+  - note-0056
 aliases:
   - 触摸书游戏
   - 摸摸书共读

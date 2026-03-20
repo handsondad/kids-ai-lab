@@ -27,6 +27,7 @@ adult_effort: low
 safety_level: high
 source_refs:
   - note-0012
+  - note-0043
 aliases:
   - 洗澡边唱边说
   - 泡泡小脚趾聊天

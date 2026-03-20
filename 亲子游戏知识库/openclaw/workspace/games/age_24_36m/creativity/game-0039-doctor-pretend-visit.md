@@ -27,6 +27,8 @@ adult_effort: medium
 safety_level: low
 source_refs:
   - note-0010
+  - note-0064
+  - note-0073
 aliases:
   - 医生角色扮演
   - 看病预演

@@ -25,6 +25,7 @@ adult_effort: low
 safety_level: low
 source_refs:
   - note-0001
+  - note-0075
 aliases:
   - 表情模仿游戏
   - 情绪命名游戏
@@ -91,4 +92,4 @@ last_reviewed: 2026-03-10
 ## 来源说明
 
 - 来源笔记 ID: `note-0001`
-- 当前为基于书名主题方向整理的 draft 版本，后续建议补充准确章节与页码
+- 当前为基于全书主题方向整理的 draft 版本，属于书级主题草稿，不对应单一章节页码

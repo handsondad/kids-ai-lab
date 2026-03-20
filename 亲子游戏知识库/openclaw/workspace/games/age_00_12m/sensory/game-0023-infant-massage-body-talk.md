@@ -26,6 +26,7 @@ adult_effort: medium
 safety_level: medium
 source_refs:
   - note-0007
+  - note-0023
 aliases:
   - 婴儿抚触
   - 身体部位按摩
@@ -35,7 +36,7 @@ search_terms:
   - 抚触
   - 身体部位词汇
   - 洗澡后安抚
-last_reviewed: 2026-03-12
+last_reviewed: 2026-03-16
 ---
 
 # 游戏简介
@@ -93,5 +94,5 @@ last_reviewed: 2026-03-12
 
 ## 来源说明
 
-- 来源笔记 ID: `note-0007`
-- 基于第 10 章中关于婴儿抚触和按摩时说话的内容整理
+- 来源笔记 ID: `note-0007`, `note-0023`
+- 同时参考第 10 章中的婴儿抚触，以及《美国金宝贝早教婴儿游戏0-3岁》0月龄及以上“婴儿按摩”整理

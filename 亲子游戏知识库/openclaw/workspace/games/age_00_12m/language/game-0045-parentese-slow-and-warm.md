@@ -25,6 +25,7 @@ adult_effort: low
 safety_level: low
 source_refs:
   - note-0011
+  - note-0076
 aliases:
   - parentese
   - 宝妈腔互动

@@ -24,6 +24,7 @@ adult_effort: medium
 safety_level: medium
 source_refs:
   - note-0003
+  - note-0024
 aliases:
   - 摇铃追视
   - 跨越中间线游戏
@@ -31,7 +32,7 @@ search_terms:
   - 0到6个月注意力游戏
   - 婴儿视觉跟踪
   - 摇铃追视
-last_reviewed: 2026-03-12
+last_reviewed: 2026-03-16
 ---
 
 # 游戏简介
@@ -84,5 +85,5 @@ last_reviewed: 2026-03-12
 
 ## 来源说明
 
-- 来源笔记 ID: `note-0003`
-- 基于第 4 章“跨越中间线游戏”整理
+- 来源笔记 ID: `note-0003`, `note-0024`
+- 同时参考第 4 章“跨越中间线游戏”和《美国金宝贝早教婴儿游戏0-3岁》0月龄及以上“视觉追踪”整理

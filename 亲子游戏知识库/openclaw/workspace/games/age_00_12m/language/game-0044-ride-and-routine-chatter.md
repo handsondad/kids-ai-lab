@@ -26,6 +26,7 @@ adult_effort: low
 safety_level: low
 source_refs:
   - note-0011
+  - note-0044
 aliases:
   - 路上唠家常
   - 推车聊天

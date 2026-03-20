@@ -25,6 +25,8 @@ adult_effort: medium
 safety_level: medium
 source_refs:
   - note-0003
+  - note-0028
+  - note-0029
 aliases:
   - 俯卧镜子时间
   - 婴儿抬头游戏
@@ -32,7 +34,7 @@ search_terms:
   - 3到6个月俯卧时间
   - 婴儿照镜子
   - 爬行前准备
-last_reviewed: 2026-03-12
+last_reviewed: 2026-03-16
 ---
 
 # 游戏简介
@@ -85,5 +87,5 @@ last_reviewed: 2026-03-12
 
 ## 来源说明
 
-- 来源笔记 ID: `note-0003`
-- 基于第 4 章“鼓励俯卧游戏时间”整理
+- 来源笔记 ID: `note-0003`, `note-0028`, `note-0029`
+- 同时参考第 4 章“鼓励俯卧游戏时间”，以及《美国金宝贝早教婴儿游戏0-3岁》3个月及以上“照镜子”“趴趴乐”整理
