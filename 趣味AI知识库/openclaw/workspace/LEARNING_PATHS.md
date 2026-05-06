@@ -55,6 +55,26 @@
 - 2D attention fast path 到底解决了什么瓶颈
 - 未来模型会不会把部分程序逻辑直接吸收到内部执行路径里
 
+## 如果你在追 2025-2026 前沿进展
+
+先看：
+
+1. `collections/collection-0014-ai-breakthroughs-2025-2026.md`
+2. `topics/agents/topic-0105-agentic-ai-autonomous-workflows.md`
+3. `events/event-0002-gpt-5-launch.md`
+4. `tools/model_playgrounds/tool-0132-deepseek-v3-cost-efficiency.md`
+5. `collections/collection-0015-openclaw-ecosystem-and-variants.md`
+
+适合的问题：
+
+- GPT-5 的推理能力和 GPT-4 有什么本质区别
+- 为什么说 2025 年是智能体 (Agent) 的元年
+- 原生多模态模型 (如 Gemini 3) 对未来应用有什么影响
+- DeepSeek 是如何通过架构创新实现极致性价比的
+- 什么是“养龙虾”，OpenClaw 有哪些好玩的衍生版本
+- DeepSeek-R2 是如何实现 32B 参数媲美顶尖模型的
+- 什么是动态计算架构 (Dynamic-Computation)，它对万亿参数模型意味着什么
+
 ## 一个简单判断法
 
 - 如果问题是“怎么说”，先看 Prompt。

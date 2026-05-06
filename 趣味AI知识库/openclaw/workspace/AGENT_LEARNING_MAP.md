@@ -59,6 +59,8 @@
 2. `collections/collection-0002-harness-and-in-model-compute.md`
 3. `topics/foundations/topic-0005-2d-attention-fast-path.md`
 4. `sources/notes/note-0004-can-llms-be-computers-short-summary.md`
+5. `topics/agents/topic-0105-agentic-ai-autonomous-workflows.md`
+6. `collections/collection-0014-ai-breakthroughs-2025-2026.md`
 
 阶段产出：
 
