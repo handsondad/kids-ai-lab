@@ -52,4 +52,4 @@ Claude Code 是 Anthropic 官方推出的 Agentic 命令行工具。它允许开
 
 ## 相关主题
 
-- [topic-0110-hybrid-reasoning-architecture](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/foundations/topic-0110-hybrid-reasoning-architecture.md)
+- [topic-0110-hybrid-reasoning-architecture](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/architecture/topic-0110-hybrid-reasoning-architecture.md)

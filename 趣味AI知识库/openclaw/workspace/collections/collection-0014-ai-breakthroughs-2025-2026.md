@@ -39,7 +39,7 @@ last_reviewed: 2026-05-06
 ## 推荐顺序
 
 1. **先看背景**：阅读 [event-0002](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/events/event-0002-gpt-5-launch.md) 了解 GPT-5 开启的推理时代。
-2. **掌握底层逻辑**：深入学习 [topic-0109](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/foundations/topic-0109-test-time-compute-reasoning-scaling.md) 理解推理规模化定律。
+2. **掌握底层逻辑**：深入学习 [topic-0109](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/architecture/topic-0109-test-time-compute-reasoning-scaling.md) 理解推理规模化定律。
 3. **理解 Agent 架构**：通过 [topic-0105](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/agents/topic-0105-agentic-ai-autonomous-workflows.md) 和 [topic-0108](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/agents/topic-0108-multi-agent-patterns-sub-vs-mega.md) 掌握自主工作流与分层架构模式。
 4. **熟悉行业标准**：学习 [topic-0107](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/agents/topic-0107-mcp-and-a2a-protocols.md) 了解 MCP 与 A2A 协议。
 5. **对比工具**：浏览工具卡了解各大厂商的旗舰产品。

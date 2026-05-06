@@ -23,8 +23,8 @@
 
 如果你主要在看模型内部执行能力，再接着看：
 
-1. `./openclaw/workspace/topics/foundations/topic-0003-tool-use-vs-in-model-execution.md`
-2. `./openclaw/workspace/topics/foundations/topic-0005-2d-attention-fast-path.md`
+1. `./openclaw/workspace/topics/architecture/topic-0003-tool-use-vs-in-model-execution.md`
+2. `./openclaw/workspace/topics/architecture/topic-0005-2d-attention-fast-path.md`
 
 ## 设计目标
 
@@ -121,7 +121,7 @@
 
 1. 文件夹分类
    - 第一维：内容类型，例如 `topics/`、`tools/`、`events/`
-   - 第二维：主题簇或工具类别，例如 `foundations/`、`model_playgrounds/`
+   - 第二维：主题簇或工具类别，例如 `architecture/`、`models/`、`serving_and_ops/`、`model_playgrounds/`
 
 2. 元数据分类
    - 知识领域 `topic_clusters`

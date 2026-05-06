@@ -11,7 +11,7 @@
 先看：
 
 1. `collections/collection-0001-ai-foundations-and-tooling.md`
-2. `topics/foundations/topic-0001-transformer-and-llm-basics.md`
+2. `topics/architecture/topic-0001-transformer-and-llm-basics.md`
 3. `tools/model_playgrounds/tool-0001-llm-playground-comparison.md`
 
 适合的问题：
@@ -25,7 +25,7 @@
 先看：
 
 1. `collections/collection-0003-agent-system-design-overview.md`
-2. `topics/foundations/topic-0004-prompt-context-harness-and-in-model-execution.md`
+2. `topics/architecture/topic-0004-prompt-context-harness-and-in-model-execution.md`
 3. `topics/agents/topic-0002-harness-engineering.md`
 4. `topics/agents/topic-0006-agent-self-verification-and-trace-optimization.md`
 5. `tools/observability/tool-0002-agent-observability-and-tracing.md`
@@ -45,8 +45,8 @@
 先看：
 
 1. `collections/collection-0002-harness-and-in-model-compute.md`
-2. `topics/foundations/topic-0003-tool-use-vs-in-model-execution.md`
-3. `topics/foundations/topic-0005-2d-attention-fast-path.md`
+2. `topics/architecture/topic-0003-tool-use-vs-in-model-execution.md`
+3. `topics/architecture/topic-0005-2d-attention-fast-path.md`
 4. `sources/notes/note-0004-can-llms-be-computers-short-summary.md`
 
 适合的问题：

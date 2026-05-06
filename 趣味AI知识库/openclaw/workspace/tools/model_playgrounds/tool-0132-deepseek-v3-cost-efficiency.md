@@ -56,7 +56,7 @@ DeepSeek-V3 是中国顶尖 AI 实验室深度求索在 2025 年发布的超大�
 
 ## 相关主题
 
-- [topic-0021-deepseek-practical-playbook](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/foundations/topic-0021-deepseek-practical-playbook.md)
+- [topic-0021-deepseek-practical-playbook](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/models/topic-0021-deepseek-practical-playbook.md)
 
 ## 来源说明
 

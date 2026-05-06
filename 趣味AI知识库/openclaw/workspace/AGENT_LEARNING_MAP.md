@@ -15,7 +15,7 @@
 
 必读：
 
-1. `topics/foundations/topic-0004-prompt-context-harness-and-in-model-execution.md`
+1. `topics/architecture/topic-0004-prompt-context-harness-and-in-model-execution.md`
 2. `topics/agents/topic-0002-harness-engineering.md`
 3. `collections/collection-0003-agent-system-design-overview.md`
 
@@ -49,15 +49,15 @@
 - 你能说明 tracing 平台在优化闭环中的角色，而不只把它当日志系统。
 - 你能初步比较 LangSmith 与 Phoenix 的适配场景。
 
-## 前沿层（Level C）
+## 前沿层 (Level C)
 
 学习目标：把外部系统优化与模型内部执行能力边界区分清楚。
 
 必读：
 
-1. `topics/foundations/topic-0003-tool-use-vs-in-model-execution.md`
+1. `topics/architecture/topic-0003-tool-use-vs-in-model-execution.md`
 2. `collections/collection-0002-harness-and-in-model-compute.md`
-3. `topics/foundations/topic-0005-2d-attention-fast-path.md`
+3. `topics/architecture/topic-0005-2d-attention-fast-path.md`
 4. `sources/notes/note-0004-can-llms-be-computers-short-summary.md`
 5. `topics/agents/topic-0105-agentic-ai-autonomous-workflows.md`
 6. `collections/collection-0014-ai-breakthroughs-2025-2026.md`

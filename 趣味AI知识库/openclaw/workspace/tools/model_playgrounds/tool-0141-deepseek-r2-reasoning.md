@@ -53,4 +53,4 @@ DeepSeek-R2 是 DeepSeek 在 2026 年 4 月发布的第二代推理专用模型�
 
 ## 相关主题
 
-- [topic-0112-grpo-reinforcement-learning](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/foundations/topic-0112-grpo-reinforcement-learning.md)
+- [topic-0112-grpo-reinforcement-learning](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/architecture/topic-0112-grpo-reinforcement-learning.md)

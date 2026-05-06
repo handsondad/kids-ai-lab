@@ -51,4 +51,4 @@ DeepSeek-V4 是 DeepSeek 的下一代旗舰通用大模型，采用万亿参数 
 
 ## 相关主题
 
-- [topic-0111-dynamic-computation-architecture](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/foundations/topic-0111-dynamic-computation-architecture.md)
+- [topic-0111-dynamic-computation-architecture](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/architecture/topic-0111-dynamic-computation-architecture.md)
