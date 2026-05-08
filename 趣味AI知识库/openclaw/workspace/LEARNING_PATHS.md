@@ -84,6 +84,26 @@
 
 ## 后续写回建议
 
+## 如果你想用AI加速科研流程
+
+先看：
+
+1. `collections/collection-0016-ai-research-automation-track.md`
+2. `topics/agents/topic-0109-ai-research-automation.md`
+3. `tools/agent_frameworks/tool-0144-storm.md`
+4. `tools/agent_frameworks/tool-0146-paperqa2.md`
+5. `tools/agent_frameworks/tool-0145-openhands.md`
+6. `tools/agent_frameworks/tool-0143-ai-scientist.md`
+7. `events/event-0004-ai-scientist-v2-peer-review-acceptance.md`
+
+适合的问题：
+
+- AI科研自动化到底是什么，能帮我做什么
+- 如何自动化文献综述和论文阅读
+- 如何自动化实验和代码开发
+- 端到端研究系统是如何工作的
+- AI生成的论文质量如何，能否通过同行评审
+
 - 新文章先落 `sources/articles/`
 - 再写 `sources/notes/`
 - 能稳定回答的问题，再拆成 `topics/`、`tools/` 或 `collections/`
