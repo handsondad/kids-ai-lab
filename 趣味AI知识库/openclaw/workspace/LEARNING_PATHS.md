@@ -82,6 +82,69 @@
 - 如果问题是“怎么让它稳定做完”，先看 Harness。
 - 如果问题是“模型自己能不能执行长程精确计算”，再看 In-Model Execution。
 
+## 如果你想选择合适的AI编程工具
+
+先看：
+
+1. `topics/models/topic-0112-llm-comparison-2026.md`
+2. `tools/model_playgrounds/tool-0152-gpt-5.md`
+3. `tools/model_playgrounds/tool-0153-claude-4.md`
+4. `tools/model_playgrounds/tool-0155-deepseek-r1.md`
+5. `tools/model_playgrounds/tool-0164-deepseek-v4.md`
+6. `tools/model_playgrounds/tool-0156-cursor.md`
+7. `tools/ai_programming_tools/tool-0157-github-copilot.md`
+8. `tools/ai_programming_tools/tool-0158-windsurf.md`
+
+适合的问题：
+
+- 2026年主流AI编程工具有哪些，如何选择
+- Claude Code、Cursor、Copilot、Windsurf各有什么优势
+- 不同编程场景应该用什么工具
+- 如何平衡成本和能力
+
+## 如果你想了解多模态AI技术
+
+先看：
+
+1. `topics/models/topic-0116-multimodal-ai-technology.md`
+2. `tools/ai_image_tools/tool-0159-midjourney.md`
+3. `tools/ai_image_tools/tool-0160-dall-e-3.md`
+4. `tools/ai_video_tools/tool-0161-seedance.md`
+5. `tools/ai_audio_tools/tool-0162-suno.md`
+6. `tools/ai_audio_tools/tool-0163-elevenlabs.md`
+7. `events/event-0009-sora-shutdown.md`
+
+适合的问题：
+
+- 多模态AI包括哪些技术领域
+- AI图像生成、视频生成、音频生成工具有哪些
+- Midjourney和DALL-E 3有什么区别
+- 中国在视频生成领域的进展如何
+- 为什么OpenAI Sora会关停
+- 如何选择合适的多模态AI工具
+
+
+## 如果你想了解2026年AI发展趋势
+
+先看：
+
+1. `topics/trends/topic-0117-ai-trends-2026.md`
+2. `events/event-0007-gpt5-launch.md`
+3. `events/event-0008-claude4-launch.md`
+4. `events/event-0009-sora-shutdown.md`
+5. `events/event-0010-deepseek-v4-launch.md`
+6. `topics/tools/topic-0115-ai-programming-tools-comparison.md`
+
+适合的问题：
+
+- 2026年AI发展的核心趋势是什么
+- 为什么说2026年是智能体商用元年
+- GPT-5和Claude 4有什么突破
+- 为什么OpenAI Sora会关停
+- DeepSeek-V4为什么发布后遇冷
+- 中国AI在哪些领域取得领先
+- AI编程工具如何选择
+
 ## 后续写回建议
 
 ## 如果你想用AI加速科研流程
