@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0120
+status: draft
 name: LMDeploy
 title: LMDeploy
 git_url: https://github.com/InternLM/lmdeploy

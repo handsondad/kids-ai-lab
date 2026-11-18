@@ -66,7 +66,7 @@ ChatPaper 是使用 ChatGPT 总结 arXiv 论文的工具，提供专业翻译、
 
 - 与 `tool-0146`（PaperQA2）互补，ChatPaper用于快速总结，PaperQA2用于精确问答。
 - 与 `tool-0144`（STORM）相关，ChatPaper可作为文献综述的预处理工具。
-- 与 `topic-0111`（文献综述自动化）强相关。
+- 与 `topic-0120`（文献综述自动化）强相关。
 
 ## 来源说明
 

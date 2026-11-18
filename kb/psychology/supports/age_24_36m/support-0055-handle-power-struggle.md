@@ -1,6 +1,6 @@
 ---
 doc_type: support_card
-id: support-0021
+id: support-0055
 title: handle-power-struggle
 title_zh: 应对权力斗争
 status: draft

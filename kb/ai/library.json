@@ -1,0 +1,77 @@
+{
+  "id": "ai",
+  "title_zh": "趣味AI知识库",
+  "summary": "人工智能知识：概念主题卡、AI 工具卡、行业事件卡、学习路径指南和合集，附来源文章、论文与笔记。",
+  "when_to_use": "孩子或家长问 AI 是什么、某个模型或工具怎么用、AI 领域最近发生了什么，或要规划 AI 学习路径时。",
+  "age_convention": null,
+  "doc_types": {
+    "topic_card": {
+      "label": "主题卡",
+      "id_prefix": ["topic"],
+      "folder": "topics/<topic_cluster>",
+      "template": "_templates/topic_card_template.md",
+      "answerable": true,
+      "required": ["title_zh", "learning_level", "topic_clusters", "source_refs", "aliases", "search_terms", "last_reviewed"]
+    },
+    "tool_card": {
+      "label": "工具卡",
+      "id_prefix": ["tool"],
+      "folder": "tools/<tool_category>",
+      "template": "_templates/tool_card_template.md",
+      "answerable": true,
+      "required": ["title_zh", "tool_category", "capabilities", "use_cases", "source_refs", "aliases", "search_terms", "last_reviewed"]
+    },
+    "event_card": {
+      "label": "事件卡",
+      "id_prefix": ["event"],
+      "folder": "events",
+      "template": "_templates/event_card_template.md",
+      "answerable": true,
+      "required": ["title_zh", "event_date", "event_type", "source_refs", "last_reviewed"]
+    },
+    "guide": {
+      "label": "指南卡",
+      "id_prefix": ["guide"],
+      "folder": "guides",
+      "template": "_templates/guide_template.md",
+      "answerable": true,
+      "required": ["title_zh", "last_reviewed"]
+    },
+    "collection": {
+      "label": "合集卡",
+      "id_prefix": ["collection"],
+      "folder": "collections",
+      "template": "_templates/collection_template.md",
+      "answerable": true,
+      "required": ["title_zh", "included_cards", "last_reviewed"]
+    },
+    "source_note": {
+      "label": "来源笔记",
+      "id_prefix": ["note"],
+      "folder": "sources/notes",
+      "template": "_templates/source_note_template.md",
+      "required": ["last_reviewed"]
+    },
+    "source_article": {
+      "label": "来源文章",
+      "id_prefix": ["article"],
+      "folder": "sources/articles",
+      "template": "_templates/source_article_template.md",
+      "required": ["title_zh", "last_reviewed"]
+    },
+    "source_paper": {
+      "label": "来源论文",
+      "id_prefix": ["paper"],
+      "folder": "sources/papers",
+      "template": "_templates/source_paper_template.md",
+      "required": ["title_zh", "last_reviewed"]
+    },
+    "source_book": {
+      "label": "来源书籍",
+      "id_prefix": ["book"],
+      "folder": "sources/books",
+      "template": "_templates/source_book_template.md",
+      "required": ["title_zh", "last_reviewed"]
+    }
+  }
+}

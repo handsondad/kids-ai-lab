@@ -1,6 +1,7 @@
 ---
 doc_type: source_article
 id: article-0115
+status: draft
 title: text-generation-inference GitHub Overview
 source_type: github
 source_url: https://github.com/huggingface/text-generation-inference

@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0105
+status: draft
 title: llm-awq_github_overview
 title_zh: LLM-AWQ 官方仓库概览
 author: github_bot

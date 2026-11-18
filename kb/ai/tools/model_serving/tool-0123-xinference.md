@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0123
+status: draft
 name: Xinference
 title: Xinference
 git_url: https://github.com/xorbitsai/inference

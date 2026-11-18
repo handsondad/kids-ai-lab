@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0104
+status: draft
 name: AutoGPTQ
 title: AutoGPTQ
 git_url: https://github.com/AutoGPTQ/AutoGPTQ

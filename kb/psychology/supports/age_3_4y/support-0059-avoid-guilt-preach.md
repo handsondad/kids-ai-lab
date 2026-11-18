@@ -1,6 +1,6 @@
 ---
 doc_type: support_card
-id: support-0019
+id: support-0059
 title: avoid-guilt-preach
 title_zh: 避免说教和制造内疚
 status: draft

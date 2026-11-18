@@ -1,6 +1,7 @@
 ---
 doc_type: source_note
 id: note-0036
+status: draft
 title: seedance_bytedance_official
 title_zh: SeeDance (字节跳动)官方文档
 source_type: official_website

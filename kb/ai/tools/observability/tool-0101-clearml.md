@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0101
+status: draft
 name: ClearML
 title: ClearML
 git_url: https://github.com/clearml/clearml

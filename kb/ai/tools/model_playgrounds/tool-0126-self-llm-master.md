@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0126
+status: draft
 name: self-llm-master
 title: self-llm-master
 git_url: https://github.com/datawhalechina/self-llm

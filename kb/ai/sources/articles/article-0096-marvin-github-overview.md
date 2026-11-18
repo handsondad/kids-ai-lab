@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0096
+status: draft
 title: marvin_github_overview
 title_zh: Marvin 官方仓库概览
 author: github_bot

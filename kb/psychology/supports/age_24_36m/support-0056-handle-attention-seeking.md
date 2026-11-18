@@ -1,6 +1,6 @@
 ---
 doc_type: support_card
-id: support-0022
+id: support-0056
 title: handle-attention-seeking
 title_zh: 应对寻求关注的行为
 status: draft

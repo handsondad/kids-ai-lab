@@ -64,7 +64,7 @@ OpenAI 的旗舰产品线分为两大支柱：**GPT-4.5**（预训练巅峰，�
 
 ## 相关主题
 
-- [topic-0105-agentic-ai-autonomous-workflows](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/agents/topic-0105-agentic-ai-autonomous-workflows.md)
+- [topic-0105-agentic-ai-autonomous-workflows](../../topics/agents/topic-0105-agentic-ai-autonomous-workflows.md)
 
 ## 来源说明
 

@@ -1,6 +1,7 @@
 ---
 doc_type: source_note
 id: note-0039
+status: draft
 title: gpt5_launch_event
 title_zh: GPT-5发布事件
 source_type: official_website

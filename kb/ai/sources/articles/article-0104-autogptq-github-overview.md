@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0104
+status: draft
 title: autogptq_github_overview
 title_zh: AutoGPTQ 官方仓库概览
 author: github_bot

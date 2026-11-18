@@ -1,6 +1,6 @@
 ---
 doc_type: topic_card
-id: topic-0111
+id: topic-0120
 title: literature_review_automation
 title_zh: 文献综述自动化
 status: reviewed

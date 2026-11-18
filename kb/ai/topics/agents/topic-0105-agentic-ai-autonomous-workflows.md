@@ -61,7 +61,7 @@ last_reviewed: 2026-05-06
 
 ## 下一步学习建议
 
-- **先读**：[note-0019](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/sources/notes/note-0019-ai-landscape-2025-2026-extract.md)
+- **先读**：[note-0019](../../sources/notes/note-0019-ai-landscape-2025-2026-extract.md)
 - **先练**：尝试使用 LangGraph 或 CrewAI 搭建一个简单的翻译/搜索 Agent。
 
 ## 检索提示

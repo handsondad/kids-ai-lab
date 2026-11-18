@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0093
+status: draft
 title: open-interpreter_github_overview
 title_zh: Open Interpreter 官方仓库概览
 author: github_bot

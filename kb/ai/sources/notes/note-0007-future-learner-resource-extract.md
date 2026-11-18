@@ -1,6 +1,7 @@
 ---
 doc_type: source_note
 id: note-0007
+status: draft
 source_ref: manual_curation
 chapter: curated_list_01
 chapter_zh: future-learner 资源清单提取

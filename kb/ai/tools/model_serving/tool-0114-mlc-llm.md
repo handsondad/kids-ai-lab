@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0114
+status: draft
 name: MLC-LLM
 title: MLC-LLM
 git_url: https://github.com/mlc-ai/mlc-llm

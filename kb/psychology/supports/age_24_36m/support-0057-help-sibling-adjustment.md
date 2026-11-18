@@ -1,6 +1,6 @@
 ---
 doc_type: support_card
-id: support-0023
+id: support-0057
 title: help-sibling-adjustment
 title_zh: 帮助老大适应新宝宝
 status: draft

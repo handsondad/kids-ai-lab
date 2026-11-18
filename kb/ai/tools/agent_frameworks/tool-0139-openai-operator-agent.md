@@ -49,4 +49,4 @@ OpenAI Operator 是 OpenAI 官方推出的自主网页智能体。它能够通�
 
 ## 相关主题
 
-- [topic-0105-agentic-ai-autonomous-workflows](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/agents/topic-0105-agentic-ai-autonomous-workflows.md)
+- [topic-0105-agentic-ai-autonomous-workflows](../../topics/agents/topic-0105-agentic-ai-autonomous-workflows.md)

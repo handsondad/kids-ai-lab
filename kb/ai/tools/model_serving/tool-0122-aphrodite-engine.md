@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0122
+status: draft
 name: Aphrodite Engine
 title: Aphrodite Engine
 git_url: https://github.com/aphrodite-engine/aphrodite-engine

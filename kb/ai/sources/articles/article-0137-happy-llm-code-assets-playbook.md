@@ -1,6 +1,7 @@
 ---
 doc_type: source_article
 id: article-0137
+status: draft
 title: happy-llm Code Assets Playbook
 source_type: repo_code
 source_url: c:/Xiuqin/Code/xiuqin/happy-llm-main/docs

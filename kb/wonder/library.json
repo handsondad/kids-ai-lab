@@ -1,0 +1,25 @@
+{
+  "id": "wonder",
+  "title_zh": "孩子的奇妙视界",
+  "summary": "用孩子听得懂的方式回答孩子的好奇问题：可复用的主题笔记（孩子层、爸爸层、小实验）和讲述脚本，方法写在 skills/ 里。",
+  "when_to_use": "孩子问“为什么”“是什么”这类好奇问题，需要按年龄讲清楚、给爸爸接话的话术，或要把一个好答案沉淀下来时。",
+  "age_convention": "stages",
+  "doc_types": {
+    "topic_note": {
+      "label": "主题笔记",
+      "id_prefix": ["topic"],
+      "folder": "notes",
+      "template": "_templates/topic_note_template.md",
+      "answerable": true,
+      "required": ["title_zh", "question_seeds", "age_stages"]
+    },
+    "answer_script": {
+      "label": "讲述脚本",
+      "id_prefix": ["script"],
+      "folder": "notes",
+      "template": "_templates/answer_script_template.md",
+      "answerable": true,
+      "required": ["title_zh", "question_seed", "age_stage"]
+    }
+  }
+}

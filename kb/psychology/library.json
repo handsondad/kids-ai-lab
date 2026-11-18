@@ -1,0 +1,47 @@
+{
+  "id": "psychology",
+  "title_zh": "儿童心理学知识库",
+  "summary": "儿童心理发展：按年龄段的发展阶段卡、针对具体情境的支持卡（孩子信号、家长做法），以及读书提炼的来源笔记。",
+  "when_to_use": "家长想理解孩子的情绪、行为或心理需求，或要找某个年龄段、某种情境下具体可做的支持方法时。",
+  "age_convention": "months",
+  "doc_types": {
+    "support_card": {
+      "label": "支持卡",
+      "id_prefix": ["support"],
+      "folder": "supports/<age_stage>",
+      "template": "_templates/support_card_template.md",
+      "answerable": true,
+      "required": ["title_zh", "age_min_months", "age_max_months", "age_stage", "domains", "child_signals", "support_strategies", "source_refs", "aliases", "search_terms", "last_reviewed"]
+    },
+    "stage_card": {
+      "label": "阶段卡",
+      "id_prefix": ["stage"],
+      "folder": "stages/<age_stage>",
+      "template": "_templates/stage_card_template.md",
+      "answerable": true,
+      "required": ["title_zh", "age_min_months", "age_max_months", "age_stage", "domains", "support_strategies", "source_refs", "last_reviewed"]
+    },
+    "collection": {
+      "label": "合集卡",
+      "id_prefix": ["collection"],
+      "folder": "collections",
+      "template": "_templates/collection_template.md",
+      "answerable": true,
+      "required": ["title_zh", "age_stage", "included_cards", "last_reviewed"]
+    },
+    "source_note": {
+      "label": "来源笔记",
+      "id_prefix": ["note"],
+      "folder": "sources/notes",
+      "template": "_templates/source_note_template.md",
+      "required": ["source_book", "chapter_zh", "derived_cards", "last_reviewed"]
+    },
+    "source_book": {
+      "label": "来源书籍",
+      "id_prefix": ["book"],
+      "folder": "sources/books",
+      "template": "_templates/source_book_template.md",
+      "required": ["title_zh", "author", "last_reviewed"]
+    }
+  }
+}

@@ -1,6 +1,7 @@
 ---
 doc_type: source_article
 id: article-0126
+status: draft
 title: Can LLMs Be Computers? (Percepta)
 source_type: web_article
 source_url: https://www.percepta.ai/blog/can-llms-be-computers

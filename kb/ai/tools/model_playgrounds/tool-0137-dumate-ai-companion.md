@@ -51,7 +51,7 @@ DuMate 是一款强调“情感连接”与“任务协作”并重的 AI 伙伴
 
 ## 相关主题
 
-- [topic-0106-openclaw-variants-and-nicknames](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/agents/topic-0106-openclaw-variants-and-nicknames.md)
+- [topic-0106-openclaw-variants-and-nicknames](../../topics/agents/topic-0106-openclaw-variants-and-nicknames.md)
 
 ## 来源说明
 

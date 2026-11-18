@@ -1,6 +1,7 @@
 ---
 doc_type: source_note
 id: note-0032
+status: draft
 title: github_copilot_official
 title_zh: GitHub Copilot官方文档
 source_type: official_website

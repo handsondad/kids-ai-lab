@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0109
+status: draft
 title: stablehlo_github_overview
 title_zh: StableHLO 官方仓库概览
 author: github_bot

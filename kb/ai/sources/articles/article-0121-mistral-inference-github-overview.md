@@ -1,6 +1,7 @@
 ---
 doc_type: source_article
 id: article-0121
+status: draft
 title: mistral-inference GitHub Overview
 source_type: github
 source_url: https://github.com/mistralai/mistral-inference

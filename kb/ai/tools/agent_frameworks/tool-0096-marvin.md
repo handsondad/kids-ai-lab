@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0096
+status: draft
 name: Marvin
 title: Marvin
 git_url: https://github.com/PrefectHQ/marvin

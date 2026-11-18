@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0113
+status: draft
 name: llama.cpp
 title: llama.cpp
 git_url: https://github.com/ggml-org/llama.cpp

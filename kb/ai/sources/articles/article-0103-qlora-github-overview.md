@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0103
+status: draft
 title: qlora_github_overview
 title_zh: QLoRA 官方仓库概览
 author: github_bot

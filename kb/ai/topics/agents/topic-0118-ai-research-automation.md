@@ -1,6 +1,6 @@
 ---
 doc_type: topic_card
-id: topic-0109
+id: topic-0118
 title: ai_research_automation
 title_zh: AI科研自动化
 status: reviewed

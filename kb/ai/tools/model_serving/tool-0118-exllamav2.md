@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0118
+status: draft
 name: ExLlamaV2
 title: ExLlamaV2
 git_url: https://github.com/turboderp-org/exllamav2

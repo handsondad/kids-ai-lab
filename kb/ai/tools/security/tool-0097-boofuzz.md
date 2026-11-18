@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0097
+status: draft
 name: Boofuzz
 title: Boofuzz
 git_url: https://github.com/jtpereyda/boofuzz

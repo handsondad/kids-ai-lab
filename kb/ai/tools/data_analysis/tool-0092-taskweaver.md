@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0092
+status: draft
 name: TaskWeaver
 title: TaskWeaver
 git_url: https://github.com/microsoft/TaskWeaver

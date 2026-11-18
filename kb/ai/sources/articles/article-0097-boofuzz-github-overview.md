@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0097
+status: draft
 title: boofuzz_github_overview
 title_zh: Boofuzz 官方仓库概览
 author: github_bot

@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0108
+status: draft
 name: AutoAWQ
 title: AutoAWQ
 git_url: https://github.com/casper-hansen/AutoAWQ

@@ -1,0 +1,61 @@
+{
+  "id": "science",
+  "title_zh": "趣味科学实验库",
+  "summary": "适合孩子在家或课堂动手做的科学实验卡、科学主题卡和实验合集，附来源文章与来源笔记。",
+  "when_to_use": "孩子问科学问题、家长要找或设计一个能动手做的科学实验、解释实验原理，或要把实验写回知识库时。",
+  "age_convention": "age_range",
+  "doc_types": {
+    "experiment_card": {
+      "label": "实验卡",
+      "id_prefix": ["experiment"],
+      "folder": "experiments/<science_domain>",
+      "template": "_templates/experiment_card_template.md",
+      "answerable": true,
+      "required": ["title_zh", "science_domains", "topic_clusters", "experiment_types", "materials", "duration_min", "safety_level", "supervision_level", "source_refs", "aliases", "search_terms", "last_reviewed"]
+    },
+    "topic_card": {
+      "label": "主题卡",
+      "id_prefix": ["topic"],
+      "folder": "topics/<area>",
+      "template": "_templates/topic_card_template.md",
+      "answerable": true,
+      "required": ["title_zh", "science_domains", "topic_clusters", "source_refs", "aliases", "search_terms", "last_reviewed"]
+    },
+    "collection": {
+      "label": "合集卡",
+      "id_prefix": ["collection"],
+      "folder": "collections",
+      "template": "_templates/collection_template.md",
+      "answerable": true,
+      "required": ["title_zh", "included_cards", "last_reviewed"]
+    },
+    "source_note": {
+      "label": "来源笔记",
+      "id_prefix": ["note"],
+      "folder": "sources/notes",
+      "template": "_templates/source_note_template.md",
+      "required": ["source_ref", "derived_cards", "last_reviewed"]
+    },
+    "source_article": {
+      "label": "来源文章",
+      "id_prefix": ["article", "source-article"],
+      "folder": "sources/articles",
+      "template": "_templates/source_article_template.md",
+      "required": ["title_zh", "last_reviewed"]
+    },
+    "source_paper": {
+      "label": "来源论文",
+      "id_prefix": ["paper"],
+      "folder": "sources/papers",
+      "template": "_templates/source_paper_template.md",
+      "required": ["title_zh", "last_reviewed"]
+    },
+    "source_book": {
+      "label": "来源书籍",
+      "id_prefix": ["book"],
+      "folder": "sources/books",
+      "template": "_templates/source_book_template.md",
+      "required": ["title_zh", "last_reviewed"]
+    }
+  }
+}

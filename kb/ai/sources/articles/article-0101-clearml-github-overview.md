@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0101
+status: draft
 title: clearml_github_overview
 title_zh: ClearML 官方仓库概览
 author: github_bot

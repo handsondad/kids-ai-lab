@@ -1,6 +1,6 @@
 ---
 doc_type: support_card
-id: support-0020
+id: support-0060
 title: identify-misbehavior-goal
 title_zh: 识别孩子不良行为背后的目标
 status: draft

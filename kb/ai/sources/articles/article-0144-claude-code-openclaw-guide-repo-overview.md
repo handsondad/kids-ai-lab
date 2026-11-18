@@ -1,6 +1,7 @@
 ---
 doc_type: source_article
 id: article-0144
+status: draft
 title: Claude Code x OpenClaw Guide Repo Overview
 source_type: repo_doc
 source_url: c:/Xiuqin/Code/xiuqin/Claude-Code-x-OpenClaw-Guide-Zh-main/README.md

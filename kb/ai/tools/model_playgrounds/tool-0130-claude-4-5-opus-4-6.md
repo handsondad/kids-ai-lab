@@ -68,7 +68,7 @@ Anthropic 的 Claude 系列以 **混合推理 (Hybrid Reasoning)** 和 **1M toke
 
 ## 相关主题
 
-- [topic-0105-agentic-ai-autonomous-workflows](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/agents/topic-0105-agentic-ai-autonomous-workflows.md)
+- [topic-0105-agentic-ai-autonomous-workflows](../../topics/agents/topic-0105-agentic-ai-autonomous-workflows.md)
 
 ## 来源说明
 

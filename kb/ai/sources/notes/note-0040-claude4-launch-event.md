@@ -1,6 +1,7 @@
 ---
 doc_type: source_note
 id: note-0040
+status: draft
 title: claude4_launch_event
 title_zh: Claude 4发布事件
 source_type: official_website

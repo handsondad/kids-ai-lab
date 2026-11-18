@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0109
+status: draft
 name: StableHLO
 title: StableHLO
 git_url: https://github.com/openxla/stablehlo

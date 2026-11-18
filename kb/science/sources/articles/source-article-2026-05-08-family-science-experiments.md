@@ -1,6 +1,7 @@
 ---
 doc_type: source_article
 id: source-article-2026-05-08-family-science-experiments
+status: draft
 title: 亲子科学实验合集
 title_zh: 亲子科学实验合集
 source_type: article

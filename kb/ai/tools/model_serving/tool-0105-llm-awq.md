@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0105
+status: draft
 name: LLM-AWQ
 title: LLM-AWQ
 git_url: https://github.com/mit-han-lab/llm-awq

@@ -55,7 +55,7 @@ Trae-Solo 是 Trae IDE 推出的一种独立运行模式，允许其内置的高
 
 ## 相关主题
 
-- [topic-0106-openclaw-variants-and-nicknames](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/agents/topic-0106-openclaw-variants-and-nicknames.md)
+- [topic-0106-openclaw-variants-and-nicknames](../../topics/agents/topic-0106-openclaw-variants-and-nicknames.md)
 
 ## 来源说明
 

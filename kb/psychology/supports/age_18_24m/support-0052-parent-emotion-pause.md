@@ -1,6 +1,6 @@
 ---
 doc_type: support_card
-id: support-0017
+id: support-0052
 title: parent-emotion-pause
 title_zh: 父母情绪激动时的暂停法
 status: draft

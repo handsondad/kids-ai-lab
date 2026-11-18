@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0093
+status: draft
 name: Open Interpreter
 title: Open Interpreter
 git_url: https://github.com/OpenInterpreter/open-interpreter

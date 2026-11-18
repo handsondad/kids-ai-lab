@@ -1,6 +1,7 @@
 ---
 doc_type: source_note
 id: note-0037
+status: draft
 title: suno_official
 title_zh: Suno官方文档
 source_type: official_website

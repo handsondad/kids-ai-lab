@@ -66,7 +66,7 @@ Biomni 是 Stanford 开发的通用生物医学 AI 智能体，能够自主执�
 
 - 与 `tool-0143`（AI-Scientist）互补，Biomni专注生物医学，AI-Scientist更通用。
 - 与 `tool-0147`（RD-Agent）类似，二者都是领域专业化工具。
-- 与 `topic-0109`（AI科研自动化）强相关，是领域应用案例。
+- 与 `topic-0118`（AI科研自动化）强相关，是领域应用案例。
 
 ## 来源说明
 

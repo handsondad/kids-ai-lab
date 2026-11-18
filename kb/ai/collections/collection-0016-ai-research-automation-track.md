@@ -1,5 +1,5 @@
 ---
-doc_type: collection_card
+doc_type: collection
 id: collection-0016
 title: ai_research_automation_track
 title_zh: AI科研自动化学习路径
@@ -32,7 +32,7 @@ last_reviewed: 2026-05-08
 ## 核心主题
 
 ### 1. 基础概念
-- **主题卡**: `topic-0109` - AI科研自动化
+- **主题卡**: `topic-0118` - AI科研自动化
   - 理解什么是AI科研自动化
   - 了解研究流程的各个环节
   - 掌握关键技术栈
@@ -77,7 +77,7 @@ last_reviewed: 2026-05-08
 ## 学习顺序
 
 ### 阶段1: 理解概念（1-2天）
-1. 阅读 `topic-0109` 理解AI科研自动化
+1. 阅读 `topic-0118` 理解AI科研自动化
 2. 了解研究流程的各个环节
 3. 明确自己的应用场景
 

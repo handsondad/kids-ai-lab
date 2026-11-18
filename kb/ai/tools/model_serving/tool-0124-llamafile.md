@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0124
+status: draft
 name: llamafile
 title: llamafile
 git_url: https://github.com/mozilla-ai/llamafile

@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0117
+status: draft
 name: DeepSpeed-MII
 title: DeepSpeed-MII
 git_url: https://github.com/deepspeedai/DeepSpeed-MII

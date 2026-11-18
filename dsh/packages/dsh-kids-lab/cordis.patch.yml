@@ -1,0 +1,121 @@
+# 实验室配置挂在宿主上（不在 preset 里），所以每个会话读到的是同一份路径。
+# playgroundRoot 是 sci-playground 仓库根目录；知识库由 @kids-ai-lab/dsh-kids-kb 的宿主行 kids-kb 提供（kbRoot）。
+# 这里留空；dsh/scripts/install-kidslab 会在 Profile 自己的 cordis.patch.yml 里按 id 覆盖它。
+- insert:
+    - id: kids-lab-settings
+      name: '@kids-ai-lab/dsh-kids-lab'
+      config:
+        playgroundRoot: ''
+        playgroundUrl: https://handsondad.github.io/sci-playground/
+
+# 实验模式：新建会话时与 standard / ptc / minimal / cordis 并列的一种 Agent preset。
+# 选中之后，下面这些行只挂进该会话的作用域；其他模式看不到 playground_* / lab_* 工具。
+# 文件、搜索、终端、Skill、计划、压缩、提问、待办、联网搜索/抓取和交付用 DSH 自己的插件。
+- insert:
+    - id: preset-kidslab
+      name: '@deepseek-ai/dsh-agent-preset'
+      config:
+        id: kidslab
+        name: 实验模式
+        description: 孩子的 AI 实验室：查知识库和科学馆，设计安全、适龄、能动手的科学实验，生成互动实验页。
+        order: 60
+        plugins:
+          - id: persona
+            name: '@deepseek-ai/dsh-persona'
+            config:
+              prefix: >-
+                你是「孩子的 AI 实验室」的实验向导，由 {{model}} 驱动。你陪孩子和家长把一个好奇的问题变成一次安全、适龄、能在家动手的科学实验。
+                要做实验或回答“为什么”时，先读 skill kids-lab-experiment，按它的步骤走：先 kb_search 查本地知识库并 kb_read 读卡片，再 playground_search 找科学小游戏大冒险里的互动实验，都不够时才按 skill kids-lab-web-curation 用 web_search / web_fetch 从可信来源收集。
+                设计前先 lab_safety_check；有 blocked 的风险就换做法。生成实验页用 lab_create_experiment，成功后用 present 交付 index.html。只有用户要求时才 lab_save_to_kb 写回知识库，写回的卡片一律是 draft。
+                不编造知识库条目、科学馆实验、网页来源或实验结果；引用知识库写 ref，引用网页写 markdown 链接。科学原理和因果方向必须正确。
+                对孩子用短句、打比方、先请他猜一猜，多鼓励，不说任何贬损的话；对家长清楚列出材料、时间和安全要点。不收集孩子的姓名、学校、照片等个人信息。
+                只缺一项关键信息（年龄、想探究什么、材料）时用 ask_user_question 问那一项；生成实验页和写回知识库都要等用户在确认卡上确认。
+              suffix: >-
+                工作目录是 {{cwd}}。实验页建在这个目录的 kids-lab/<slug>/ 下，只传 slug，不传路径。
+                安全检查是关键词规则，不能代替大人的现场判断；涉及火、热、刀具、化学品、电池和小零件时写清哪一步由大人完成。
+
+          - id: agent-instructions
+            name: '@deepseek-ai/dsh-agent-instructions'
+            config:
+              maxBytes: 65536
+
+          - id: tool-bash
+            name: '@deepseek-ai/dsh-tool-bash'
+            disabled: !!js process.platform === 'win32'
+          - id: tool-pwsh
+            name: '@deepseek-ai/dsh-tool-pwsh'
+            disabled: !!js process.platform !== 'win32'
+          - id: tool-fs
+            name: '@deepseek-ai/dsh-tool-fs'
+          - id: tool-fs-search
+            name: '@deepseek-ai/dsh-tool-fs-search'
+            config:
+              sampleOverCapGlobResults: false
+          - id: skill-filesystem
+            name: '@deepseek-ai/dsh-skill-filesystem'
+          - id: tool-skill
+            name: '@deepseek-ai/dsh-tool-skill'
+
+          # 孩子的 AI 实验室插件。每一行可以单独 disabled: true 关掉。
+          # 知识库工具来自 @kids-ai-lab/dsh-kids-kb（只读）；这里只注册 science 和 wonder 两个库的 skill。
+          - id: kids-kb-tools
+            name: '@kids-ai-lab/dsh-kids-kb/tools'
+            config:
+              skillLibraries: [science, wonder]
+          - id: kids-playground
+            name: '@kids-ai-lab/dsh-kids-lab/playground'
+          - id: kids-workshop
+            name: '@kids-ai-lab/dsh-kids-lab/workshop'
+
+          - id: tool-web
+            name: '@deepseek-ai/dsh-tool-web'
+            config:
+              fetch: true
+              searchTimeoutMs: 60000
+          - id: present
+            name: '@deepseek-ai/dsh-tool-present'
+
+          - id: planning
+            name: cordis:group
+            group: true
+            isolate:
+              planMode: true
+            config:
+              - id: plan-mode
+                name: '@deepseek-ai/dsh-plan-mode'
+                config:
+                  section: |
+                    You are in plan mode. Stay in plan mode until exit_plan_mode succeeds or the user switches the session mode. A conversational agreement does not approve a plan or exit plan mode.
+
+                    The tool catalog stays the same across modes. These rules override any later tool description that suggests a mutation. Do not build an experiment page, write to the knowledge base, or change files. Read with kb_libraries, kb_search, kb_read, kb_links, playground_halls, playground_search, lab_safety_check, lab_list_experiments, web_search and web_fetch, and use non-mutating file reads and searches.
+
+                    Resolve discoverable facts by inspection. Use ask_user_question only for what inspection cannot answer, such as the child's age or the materials at hand. Do not invent knowledge cards, museum experiments, sources or results.
+
+                    Make the plan decision-complete: the question the child is exploring, the age, the cards and museum experiments it draws on, the materials, the steps, the safety check result and which steps an adult does, and what will be written. Keep it short enough to review.
+
+                    When ready, call exit_plan_mode with the complete plan markdown, starting with a # title. Make exit_plan_mode the only and final tool call in that assistant response. If review rejects it, revise the plan. After approval, building the page and saving to the knowledge base each still need their own confirmation. If the review channel is unavailable, stay in plan mode.
+
+          - id: compaction
+            name: cordis:group
+            group: true
+            isolate:
+              compaction: true
+              toolResultPruner: true
+            config:
+              - id: compaction-basic
+                name: '@deepseek-ai/dsh-compaction-basic'
+              - id: command-compact
+                name: '@deepseek-ai/dsh-command-compact'
+              - id: tool-result-pruner
+                name: '@deepseek-ai/dsh-compaction-tool-result-pruner'
+                config:
+                  thresholdChars: 8192
+                  headChars: 4096
+                  tailChars: 1024
+
+          - id: tool-ask-user
+            name: '@deepseek-ai/dsh-tool-ask-user'
+          - id: tool-todo
+            name: '@deepseek-ai/dsh-tool-todo'
+            config:
+              allowParallelInProgress: true

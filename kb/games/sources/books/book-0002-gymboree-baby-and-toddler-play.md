@@ -846,7 +846,7 @@ last_reviewed: 2026-03-16
 - [game-0129-追上球把它停住](../../games/age_00_12m/gross_motor/game-0129-chase-the-ball-stop-it.md)
 - [game-0130-地毯上拉一拉站起来](../../games/age_00_12m/gross_motor/game-0130-pull-up-rhyme-stand.md)
 - [game-0131-靠垫山爬过去](../../games/age_00_12m/gross_motor/game-0131-cushion-mountain-crawl.md)
-- [game-0132-爬呀爬我抓到你啦](../../games/age_00_12m/gross_motor/game-0132-crawl-chase-got-you.md)
+- [game-0132-爬呀爬我抓到你啦](../../games/age_00_12m/social/game-0132-crawl-chase-got-you.md)
 - [game-0133-滚瓶子追一追](../../games/age_00_12m/gross_motor/game-0133-roll-the-bottle-chase.md)
 - [game-0134-包装袋里找惊喜](../../games/age_00_12m/fine_motor/game-0134-surprise-bag-unwrap-toy.md)
 - [game-0135-倒出来再装回去](../../games/age_00_12m/fine_motor/game-0135-dump-and-fill-container-play.md)

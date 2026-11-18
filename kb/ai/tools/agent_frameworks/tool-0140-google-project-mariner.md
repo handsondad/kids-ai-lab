@@ -48,4 +48,4 @@ Project Mariner 是 Google 开发的基于 Gemini 2.0 原生能力的自主网�
 
 ## 相关主题
 
-- [tool-0131-gemini-3-native-multimodal](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/tools/model_playgrounds/tool-0131-gemini-3-native-multimodal.md)
+- [tool-0131-gemini-3-native-multimodal](../model_playgrounds/tool-0131-gemini-3-native-multimodal.md)

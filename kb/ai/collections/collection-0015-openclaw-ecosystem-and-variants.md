@@ -27,13 +27,13 @@ last_reviewed: 2026-05-06
 
 ## 推荐顺序
 
-1. **文化入门**：阅读 [topic-0106](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/agents/topic-0106-openclaw-variants-and-nicknames.md) 了解“养龙虾”背后的社区文化和版本全景。
-2. **硬件探索**：如果你对低功耗硬件感兴趣，查看 [tool-0133](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/tools/agent_frameworks/tool-0133-mimiclaw-embedded-agent.md) (MimiClaw)。
-3. **性能进阶**：追求极致响应速度？了解 [tool-0134](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/tools/agent_frameworks/tool-0134-qclaw-quantized-agent.md) (qclaw)。
+1. **文化入门**：阅读 [topic-0106](../topics/agents/topic-0106-openclaw-variants-and-nicknames.md) 了解“养龙虾”背后的社区文化和版本全景。
+2. **硬件探索**：如果你对低功耗硬件感兴趣，查看 [tool-0133](../tools/agent_frameworks/tool-0133-mimiclaw-embedded-agent.md) (MimiClaw)。
+3. **性能进阶**：追求极致响应速度？了解 [tool-0134](../tools/agent_frameworks/tool-0134-qclaw-quantized-agent.md) (qclaw)。
 4. **场景应用**：
-    - 办公自动化：[tool-0136](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/tools/agent_frameworks/tool-0136-workbuddy-office-agent.md) (WorkBuddy)。
-    - 独立开发模式：[tool-0135](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/tools/agent_frameworks/tool-0135-trae-solo-agent-mode.md) (Trae-Solo)。
-    - 协作伙伴界面：[tool-0137](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/tools/model_playgrounds/tool-0137-dumate-ai-companion.md) (DuMate)。
+    - 办公自动化：[tool-0136](../tools/agent_frameworks/tool-0136-workbuddy-office-agent.md) (WorkBuddy)。
+    - 独立开发模式：[tool-0135](../tools/agent_frameworks/tool-0135-trae-solo-agent-mode.md) (Trae-Solo)。
+    - 协作伙伴界面：[tool-0137](../tools/model_playgrounds/tool-0137-dumate-ai-companion.md) (DuMate)。
 
 ## 包含卡片
 

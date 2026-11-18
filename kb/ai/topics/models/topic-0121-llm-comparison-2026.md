@@ -1,6 +1,6 @@
 ---
 doc_type: topic_card
-id: topic-0112
+id: topic-0121
 title: llm_comparison_2026
 title_zh: 2026年大语言模型对比
 status: reviewed

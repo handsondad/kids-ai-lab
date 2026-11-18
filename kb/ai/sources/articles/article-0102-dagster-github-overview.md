@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0102
+status: draft
 title: dagster_github_overview
 title_zh: Dagster 官方仓库概览
 author: github_bot

@@ -1,6 +1,7 @@
 ---
 doc_type: source_article
 id: article-0116
+status: draft
 title: openvino GitHub Overview
 source_type: github
 source_url: https://github.com/openvinotoolkit/openvino

@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0110
+status: draft
 name: XLA
 title: XLA
 git_url: https://github.com/openxla/xla

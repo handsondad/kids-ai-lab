@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0116
+status: draft
 name: OpenVINO
 title: OpenVINO
 git_url: https://github.com/openvinotoolkit/openvino

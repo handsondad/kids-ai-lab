@@ -1,0 +1,39 @@
+{
+  "id": "games",
+  "title_zh": "亲子游戏知识库",
+  "summary": "0–3 岁亲子游戏：按年龄段和能力分类、能直接玩的游戏卡，场景化游戏合集，以及读书提炼的来源笔记。",
+  "when_to_use": "家长要找适合孩子年龄、场景、材料和时长的亲子游戏，解释某个游戏为什么适合，或要设计、写回新游戏时。",
+  "age_convention": "months",
+  "doc_types": {
+    "game_card": {
+      "label": "游戏卡",
+      "id_prefix": ["game"],
+      "folder": "games/<age_stage>/<skill>",
+      "template": "_templates/game_card_template.md",
+      "answerable": true,
+      "required": ["title_zh", "age_min_months", "age_max_months", "age_stage", "scenes", "skills", "materials", "duration_min", "safety_level", "source_refs", "aliases", "search_terms", "last_reviewed"]
+    },
+    "collection": {
+      "label": "合集卡",
+      "id_prefix": ["collection"],
+      "folder": "collections",
+      "template": "_templates/collection_template.md",
+      "answerable": true,
+      "required": ["title_zh", "age_stage", "included_games", "last_reviewed"]
+    },
+    "source_note": {
+      "label": "来源笔记",
+      "id_prefix": ["note"],
+      "folder": "sources/notes",
+      "template": "_templates/source_note_template.md",
+      "required": ["source_book", "chapter_zh", "derived_games", "last_reviewed"]
+    },
+    "source_book": {
+      "label": "来源书籍",
+      "id_prefix": ["book"],
+      "folder": "sources/books",
+      "template": "_templates/source_book_template.md",
+      "required": ["title_zh", "author", "last_reviewed"]
+    }
+  }
+}

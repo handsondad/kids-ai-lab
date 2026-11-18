@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0103
+status: draft
 name: QLoRA
 title: QLoRA
 git_url: https://github.com/artidoro/qlora

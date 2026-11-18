@@ -1,6 +1,7 @@
 ---
 doc_type: source_article
 id: article-0119
+status: draft
 title: LightLLM GitHub Overview
 source_type: github
 source_url: https://github.com/ModelTC/LightLLM

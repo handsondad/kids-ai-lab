@@ -1,6 +1,7 @@
 ---
 doc_type: source_article
 id: article-0148
+status: draft
 title: Guidance Framework Positioning and Selection
 title_zh: Guidance 框架定位与选型对比
 source_type: user_provided_summary

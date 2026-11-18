@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0095
+status: draft
 name: BondAI
 title: BondAI
 git_url: https://github.com/krohling/bondai

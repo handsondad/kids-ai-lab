@@ -1,0 +1,22 @@
+{
+  "statuses": ["draft", "reviewed", "published"],
+  "required": ["doc_type", "id", "status"],
+  "ref_fields": [
+    "source_refs",
+    "source_ref",
+    "source_ref_secondary",
+    "source_book",
+    "derived_cards",
+    "derived_games",
+    "included_cards",
+    "included_games",
+    "prerequisites",
+    "related_tools",
+    "related_topics",
+    "related"
+  ],
+  "strict_ref_fields": ["related"],
+  "id_pattern": "^[a-z][a-z0-9]*(?:-[a-z]+)*-\\d{3,}(?:-[a-z0-9]+)*$",
+  "ignored_directories": ["_templates", "skills", "taxonomy"],
+  "ignored_files": ["README.md", "AGENTS.md"]
+}

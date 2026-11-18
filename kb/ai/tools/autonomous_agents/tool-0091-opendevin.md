@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0091
+status: draft
 name: OpenDevin
 title: OpenDevin
 git_url: https://github.com/OpenDevin/OpenDevin

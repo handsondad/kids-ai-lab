@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0100
+status: draft
 title: mlflow_github_overview
 title_zh: MLflow 官方仓库概览
 author: github_bot

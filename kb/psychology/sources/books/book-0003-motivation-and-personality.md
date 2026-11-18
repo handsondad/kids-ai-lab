@@ -15,7 +15,7 @@ topic_tags:
 ownership: owned
 notes_policy: summary_only
 copyright_note: Keep bibliographic facts and paraphrased summaries. Avoid long verbatim excerpts.
-status: in_progress
+status: draft
 last_reviewed: 2026-05-07
 ---
 

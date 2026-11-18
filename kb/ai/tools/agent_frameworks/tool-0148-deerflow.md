@@ -66,7 +66,7 @@ DeerFlow 是字节跳动开源的 SuperAgent 工具，能够编排子智能体�
 
 - 与 `tool-0143`（AI-Scientist）竞争，DeerFlow更灵活可扩展，AI-Scientist更开箱即用。
 - 与 `tool-0144`（STORM）互补，DeerFlow可集成STORM作为文献综述子智能体。
-- 与 `topic-0110`（多智能体研究系统）强相关。
+- 与 `topic-0119`（多智能体研究系统）强相关。
 
 ## 来源说明
 

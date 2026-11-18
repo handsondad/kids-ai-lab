@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0099
+status: draft
 title: bmtrain_github_overview
 title_zh: BMTrain 官方仓库概览
 author: github_bot

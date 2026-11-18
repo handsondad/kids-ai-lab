@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0108
+status: draft
 title: autoawq_github_overview
 title_zh: AutoAWQ 官方仓库概览
 author: github_bot

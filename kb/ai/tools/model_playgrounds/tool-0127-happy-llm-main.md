@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0127
+status: draft
 name: happy-llm-main
 title: happy-llm-main
 git_url: https://github.com/datawhalechina/happy-llm

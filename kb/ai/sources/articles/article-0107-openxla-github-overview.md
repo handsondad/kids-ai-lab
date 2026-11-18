@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0107
+status: draft
 title: openxla_github_overview
 title_zh: OpenXLA 组织概览
 author: github_bot

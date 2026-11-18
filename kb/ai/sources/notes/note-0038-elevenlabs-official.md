@@ -1,6 +1,7 @@
 ---
 doc_type: source_note
 id: note-0038
+status: draft
 title: elevenlabs_official
 title_zh: ElevenLabs官方文档
 source_type: official_website

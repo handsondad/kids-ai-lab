@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0115
+status: draft
 name: Text Generation Inference
 title: Text Generation Inference
 git_url: https://github.com/huggingface/text-generation-inference

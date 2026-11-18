@@ -1,0 +1,15 @@
+{
+  "name": "kids-ai-lab",
+  "private": true,
+  "type": "module",
+  "description": "孩子的 AI 实验室：kb/ 知识库和 DeepSeek Harness 插件。",
+  "scripts": {
+    "kb:check": "node dsh/packages/dsh-kids-kb/bin/kb-check.js",
+    "kb:warnings": "node dsh/packages/dsh-kids-kb/bin/kb-check.js --warnings",
+    "test": "node --test dsh/packages/dsh-kids-kb/tests/*.test.js dsh/packages/dsh-kids-lab/tests/*.test.js",
+    "dsh:install": "powershell -NoProfile -ExecutionPolicy Bypass -File dsh/scripts/install-kidslab.ps1"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

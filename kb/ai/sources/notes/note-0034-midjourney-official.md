@@ -1,6 +1,7 @@
 ---
 doc_type: source_note
 id: note-0034
+status: draft
 title: midjourney_official
 title_zh: Midjourney官方文档
 source_type: official_website

@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0094
+status: draft
 name: Superagent
 title: Superagent
 git_url: https://github.com/superagent-ai/superagent

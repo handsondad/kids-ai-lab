@@ -64,7 +64,7 @@ Gemini 2.0 是 Google 为 **智能体时代 (Agentic Era)** 打造的核心模�
 
 ## 相关主题
 
-- [topic-0105-agentic-ai-autonomous-workflows](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/agents/topic-0105-agentic-ai-autonomous-workflows.md)
+- [topic-0105-agentic-ai-autonomous-workflows](../../topics/agents/topic-0105-agentic-ai-autonomous-workflows.md)
 
 ## 来源说明
 

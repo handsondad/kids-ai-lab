@@ -1,6 +1,7 @@
 ---
 doc_type: source_article
 id: article-0143
+status: draft
 title: LLM Course Linked Content Digests
 source_type: web_repo_readme
 source_url: https://github.com/mlabonne/llm-course/blob/main/README.md

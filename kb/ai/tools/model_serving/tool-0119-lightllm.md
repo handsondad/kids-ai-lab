@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0119
+status: draft
 name: LightLLM
 title: LightLLM
 git_url: https://github.com/ModelTC/LightLLM

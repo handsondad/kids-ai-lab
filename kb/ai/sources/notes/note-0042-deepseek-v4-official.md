@@ -1,6 +1,7 @@
 ---
 doc_type: source_note
 id: note-0042
+status: draft
 title: deepseek_v4_official
 title_zh: DeepSeek-V4官方发布
 source_type: official_website

@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0099
+status: draft
 name: BMTrain
 title: BMTrain
 git_url: https://github.com/OpenBMB/BMTrain

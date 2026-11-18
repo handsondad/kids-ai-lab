@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0125
+status: draft
 name: Language Models
 title: Language Models
 git_url: https://github.com/jncraton/languagemodels

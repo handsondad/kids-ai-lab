@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0102
+status: draft
 name: Dagster
 title: Dagster
 git_url: https://github.com/dagster-io/dagster

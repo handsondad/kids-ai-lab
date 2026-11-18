@@ -56,8 +56,8 @@ MCP (Model Context Protocol) 是解决智能体与工具连接的垂直标准，
 
 ## 下一步学习建议
 
-- **先读**：[note-0021](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/sources/notes/note-0021-ai-agent-tech-2026-extract.md)
-- **实践**：尝试在 [openclaw](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/README.md) 中添加一个 MCP Server 技能。
+- **先读**：[note-0021](../../sources/notes/note-0021-ai-agent-tech-2026-extract.md)
+- **实践**：尝试在 [openclaw](../../README.md) 中添加一个 MCP Server 技能。
 
 ## 检索提示
 

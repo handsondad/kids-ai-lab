@@ -1,6 +1,6 @@
 ---
 doc_type: stage_card
-id: stage-0010
+id: stage-0018
 title: belonging-and-inferiority-3-6y
 title_zh: 3-6岁孩子的归属感与自卑感发展
 status: draft

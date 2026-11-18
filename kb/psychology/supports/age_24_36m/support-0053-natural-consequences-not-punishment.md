@@ -1,6 +1,6 @@
 ---
 doc_type: support_card
-id: support-0016
+id: support-0053
 title: natural-consequences-not-punishment
 title_zh: 用自然后果代替惩罚
 status: draft

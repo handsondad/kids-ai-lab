@@ -1,0 +1,47 @@
+{
+  "id": "language",
+  "title_zh": "语言发展知识库",
+  "summary": "0–6 岁语言发展：按年龄段的发展里程碑卡、日常可做的语言练习卡，以及读书提炼的来源笔记。",
+  "when_to_use": "家长关心孩子说话、理解、发音、早期阅读，想知道这个年龄的正常表现或日常怎么练语言时。",
+  "age_convention": "months",
+  "doc_types": {
+    "practice_card": {
+      "label": "练习卡",
+      "id_prefix": ["practice"],
+      "folder": "practices/<age_stage>/<domain>",
+      "template": "_templates/practice_card_template.md",
+      "answerable": true,
+      "required": ["title_zh", "age_min_months", "age_max_months", "age_stage", "scenes", "domains", "support_strategies", "source_refs", "aliases", "search_terms", "last_reviewed"]
+    },
+    "development_card": {
+      "label": "发展卡",
+      "id_prefix": ["stage"],
+      "folder": "stages/<age_stage>",
+      "template": "_templates/development_card_template.md",
+      "answerable": true,
+      "required": ["title_zh", "age_min_months", "age_max_months", "age_stage", "domains", "source_refs", "aliases", "search_terms", "last_reviewed"]
+    },
+    "collection": {
+      "label": "合集卡",
+      "id_prefix": ["collection"],
+      "folder": "collections",
+      "template": "_templates/collection_template.md",
+      "answerable": true,
+      "required": ["title_zh", "age_stage", "included_cards", "last_reviewed"]
+    },
+    "source_note": {
+      "label": "来源笔记",
+      "id_prefix": ["note"],
+      "folder": "sources/notes",
+      "template": "_templates/source_note_template.md",
+      "required": ["source_book", "chapter_zh", "derived_cards", "last_reviewed"]
+    },
+    "source_book": {
+      "label": "来源书籍",
+      "id_prefix": ["book"],
+      "folder": "sources/books",
+      "template": "_templates/source_book_template.md",
+      "required": ["title_zh", "author", "last_reviewed"]
+    }
+  }
+}

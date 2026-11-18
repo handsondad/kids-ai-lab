@@ -1,6 +1,7 @@
 ---
 doc_type: source_article
 id: article-0147
+status: draft
 title: OpenClaw Deep Operations Extract
 source_type: repo_doc
 source_url: c:/Xiuqin/Code/xiuqin/Claude-Code-x-OpenClaw-Guide-Zh-main/docs/openclaw

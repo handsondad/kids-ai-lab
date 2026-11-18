@@ -1,5 +1,5 @@
 ---
-doc_type: source_card
+doc_type: source_article
 id: source-article-2026-05-08-family-science-experiments-batch2
 title: 亲子科学实验资源合集（第二批）
 title_zh: 亲子科学实验资源合集（第二批）

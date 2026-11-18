@@ -1,5 +1,5 @@
 ---
-doc_type: collection_card
+doc_type: collection
 id: collection-0020-family-science-experiments-pack
 title: family-science-experiments-pack
 title_zh: 亲子科学实验合集包

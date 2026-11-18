@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0110
+status: draft
 title: xla_github_overview
 title_zh: XLA 官方仓库概览
 author: github_bot

@@ -1,6 +1,6 @@
 ---
 doc_type: stage_card
-id: stage-0012
+id: stage-0016
 title: only-child-psychology
 title_zh: 独生子女的心理特点与支持
 status: draft

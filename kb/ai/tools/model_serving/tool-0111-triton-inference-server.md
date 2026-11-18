@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0111
+status: draft
 name: Triton Inference Server
 title: Triton Inference Server
 git_url: https://github.com/triton-inference-server/server

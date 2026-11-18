@@ -1,0 +1,106 @@
+# 知识库配置挂在宿主上（不在 preset 里）：它提供共享的 kidsKb 服务，实验模式、知识库模式和以后新增的模式读的都是同一个 kb/。
+# kbRoot 是 kids-ai-lab 仓库里的 kb 目录。这里留空；dsh/scripts/install-kidslab 会在 Profile 自己的 cordis.patch.yml 里按 id 覆盖它。
+- insert:
+    - id: kids-kb
+      name: '@kids-ai-lab/dsh-kids-kb'
+      config:
+        kbRoot: ''
+
+# 知识库模式：整理和扩充 kb/ 的 Agent preset。会话目录选 kids-ai-lab 仓库，文件工具就能直接写卡片。
+# kids-kb-tools 打开 maintain：多出 kb_schema / kb_check 和 kb-contribute / kb-ingest-source / kb-link 三个 skill。
+- insert:
+    - id: preset-kidskb
+      name: '@deepseek-ai/dsh-agent-preset'
+      config:
+        id: kidskb
+        name: 知识库模式
+        description: 整理和扩充孩子的 AI 实验室知识库：查重、按模板写卡片、跨库关联、校验。
+        order: 61
+        plugins:
+          - id: persona
+            name: '@deepseek-ai/dsh-persona'
+            config:
+              prefix: >-
+                你是「孩子的 AI 实验室」知识库的编辑，由 {{model}} 驱动。知识库在 kids-ai-lab 仓库的 kb/ 下，分 science、games、psychology、language、ai、wonder 六个库，共通规范在 kb/README.md。
+                动手之前先加载对应库的 skill kb-<库id>；新建或修改卡片按 skill kb-contribute，整理一份新材料按 skill kb-ingest-source，跨库关联按 skill kb-link。
+                先 kb_search / kb_read 查重，再 kb_schema 拿模板、编号和路径，用文件工具写，最后 kb_check 校验到没有错误。新卡一律 status: draft。
+                不伪造来源、页码、研究结论或数据；网上的材料先 web_fetch 读原文，写明来源地址和读取日期。不改已有卡片的编号。
+                一次要写很多卡片时先用 todo 列出来；不确定放进哪个库、要不要拆卡时用 ask_user_question 问一次。
+              suffix: >-
+                会话目录是 {{cwd}}。kb_schema 给出的 write_path 相对这个目录；它提示会话目录不包含知识库时，请用户在 kids-ai-lab 仓库目录新开会话。
+
+          - id: agent-instructions
+            name: '@deepseek-ai/dsh-agent-instructions'
+            config:
+              maxBytes: 65536
+
+          - id: tool-bash
+            name: '@deepseek-ai/dsh-tool-bash'
+            disabled: !!js process.platform === 'win32'
+          - id: tool-pwsh
+            name: '@deepseek-ai/dsh-tool-pwsh'
+            disabled: !!js process.platform !== 'win32'
+          - id: tool-fs
+            name: '@deepseek-ai/dsh-tool-fs'
+          - id: tool-fs-search
+            name: '@deepseek-ai/dsh-tool-fs-search'
+            config:
+              sampleOverCapGlobResults: false
+          - id: skill-filesystem
+            name: '@deepseek-ai/dsh-skill-filesystem'
+          - id: tool-skill
+            name: '@deepseek-ai/dsh-tool-skill'
+
+          - id: kids-kb-tools
+            name: '@kids-ai-lab/dsh-kids-kb/tools'
+            config:
+              maintain: true
+
+          - id: tool-web
+            name: '@deepseek-ai/dsh-tool-web'
+            config:
+              fetch: true
+              searchTimeoutMs: 60000
+
+          - id: planning
+            name: cordis:group
+            group: true
+            isolate:
+              planMode: true
+            config:
+              - id: plan-mode
+                name: '@deepseek-ai/dsh-plan-mode'
+                config:
+                  section: |
+                    You are in plan mode. Stay in plan mode until exit_plan_mode succeeds or the user switches the session mode. A conversational agreement does not approve a plan or exit plan mode.
+
+                    The tool catalog stays the same across modes. These rules override any later tool description that suggests a mutation. Do not create, edit, move or delete files. Read with kb_libraries, kb_search, kb_read, kb_links, kb_schema, kb_check, web_search and web_fetch, and use non-mutating file reads and searches.
+
+                    Make the plan decision-complete: which library each new or changed card goes to, its doc_type, id and path from kb_schema, the sources it rests on, the related links to add, and which existing cards change. Do not invent sources.
+
+                    When ready, call exit_plan_mode with the complete plan markdown, starting with a # title. Make exit_plan_mode the only and final tool call in that assistant response. If review rejects it, revise the plan. If the review channel is unavailable, stay in plan mode.
+
+          - id: compaction
+            name: cordis:group
+            group: true
+            isolate:
+              compaction: true
+              toolResultPruner: true
+            config:
+              - id: compaction-basic
+                name: '@deepseek-ai/dsh-compaction-basic'
+              - id: command-compact
+                name: '@deepseek-ai/dsh-command-compact'
+              - id: tool-result-pruner
+                name: '@deepseek-ai/dsh-compaction-tool-result-pruner'
+                config:
+                  thresholdChars: 8192
+                  headChars: 4096
+                  tailChars: 1024
+
+          - id: tool-ask-user
+            name: '@deepseek-ai/dsh-tool-ask-user'
+          - id: tool-todo
+            name: '@deepseek-ai/dsh-tool-todo'
+            config:
+              allowParallelInProgress: true

@@ -1,6 +1,7 @@
 ---
 doc_type: source_note
 id: note-0041
+status: draft
 title: sora_shutdown_event
 title_zh: Sora关停事件
 source_type: official_website

@@ -58,8 +58,8 @@ OpenClaw 生态是指围绕核心智能体框架 OpenClaw 形成的，包含多�
 
 ## 下一步学习建议
 
-- **入门**：先了解 [topic-0105](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/agents/topic-0105-agentic-ai-autonomous-workflows.md) 智能体基础。
-- **进阶**：如果你有 ESP32 开发板，可以尝试部署 [tool-0133](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/tools/model_playgrounds/tool-0133-mimiclaw-embedded-agent.md)。
+- **入门**：先了解 [topic-0105](./topic-0105-agentic-ai-autonomous-workflows.md) 智能体基础。
+- **进阶**：如果你有 ESP32 开发板，可以尝试部署 [tool-0133](../../tools/agent_frameworks/tool-0133-mimiclaw-embedded-agent.md)。
 
 ## 检索提示
 

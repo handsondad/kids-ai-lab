@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0095
+status: draft
 title: bondai_github_overview
 title_zh: BondAI 官方仓库概览
 author: github_bot

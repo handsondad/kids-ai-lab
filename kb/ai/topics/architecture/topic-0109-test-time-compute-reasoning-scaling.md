@@ -53,7 +53,7 @@ last_reviewed: 2026-05-06
 
 ## 下一步学习建议
 
-- **对比**：在 [tool-0129](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/tools/model_playgrounds/tool-0129-gpt-5-o3-reasoning.md) 中测试不同推理模式的效果差异。
+- **对比**：在 [tool-0129](../../tools/model_playgrounds/tool-0129-gpt-5-o3-reasoning.md) 中测试不同推理模式的效果差异。
 
 ## 检索提示
 

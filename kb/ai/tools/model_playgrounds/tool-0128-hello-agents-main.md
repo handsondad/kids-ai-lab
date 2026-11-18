@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0128
+status: draft
 name: hello-agents-main
 title: hello-agents-main
 git_url: https://github.com/datawhalechina/Hello-Agents

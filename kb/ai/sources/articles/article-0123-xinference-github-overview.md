@@ -1,6 +1,7 @@
 ---
 doc_type: source_article
 id: article-0123
+status: draft
 title: xinference GitHub Overview
 source_type: github
 source_url: https://github.com/xorbitsai/inference

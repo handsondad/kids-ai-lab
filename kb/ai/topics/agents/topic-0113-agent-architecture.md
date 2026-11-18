@@ -117,4 +117,4 @@ AI智能体架构核心公式: Agent = LLM + Planning + Memory + Tools，三大�
 ## 来源说明
 
 - 来源笔记 ID: `note-0027`
-- 参考主题: `topic-0109`（AI科研自动化）、`topic-0110`（多智能体研究系统）
+- 参考主题: `topic-0118`（AI科研自动化）、`topic-0119`（多智能体研究系统）

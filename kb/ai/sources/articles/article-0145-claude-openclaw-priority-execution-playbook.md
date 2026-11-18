@@ -1,6 +1,7 @@
 ---
 doc_type: source_article
 id: article-0145
+status: draft
 title: Claude Code x OpenClaw Priority and Execution Playbook
 source_type: repo_doc
 source_url: c:/Xiuqin/Code/xiuqin/Claude-Code-x-OpenClaw-Guide-Zh-main/findings.md

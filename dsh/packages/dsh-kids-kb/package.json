@@ -1,0 +1,42 @@
+{
+  "name": "@kids-ai-lab/dsh-kids-kb",
+  "version": "0.1.0",
+  "description": "kids-ai-lab 知识库（kb/）的 DSH 插件：共享知识库服务、kb_* 工具、各库 skill、校验，以及「知识库模式」。",
+  "type": "module",
+  "main": "src/settings.js",
+  "bin": {
+    "kb-check": "bin/kb-check.js"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "check": "node bin/kb-check.js"
+  },
+  "engines": {
+    "node": ">=24",
+    "dsh": ">=0.2.0-rc.2 <0.3.0"
+  },
+  "peerDependencies": {
+    "@deepseek-ai/cordis": "^4.0.2"
+  },
+  "peerDependenciesMeta": {
+    "@deepseek-ai/cordis": {
+      "optional": true
+    }
+  },
+  "keywords": [
+    "dsh-plugin",
+    "kids-ai-lab"
+  ],
+  "dsh": {
+    "manifestVersion": 1,
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "exports": {
+    ".": "./src/settings.js",
+    "./tools": "./src/tools.js",
+    "./lib": "./src/lib.js",
+    "./package.json": "./package.json"
+  }
+}

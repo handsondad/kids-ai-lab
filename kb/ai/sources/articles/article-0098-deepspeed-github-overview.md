@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0098
+status: draft
 title: deepspeed_github_overview
 title_zh: DeepSpeed 官方仓库概览
 author: github_bot

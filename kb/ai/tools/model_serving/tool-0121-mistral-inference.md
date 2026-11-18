@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0121
+status: draft
 name: Mistral Inference
 title: Mistral Inference
 git_url: https://github.com/mistralai/mistral-inference

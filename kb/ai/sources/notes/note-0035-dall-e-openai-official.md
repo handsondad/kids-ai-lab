@@ -1,6 +1,7 @@
 ---
 doc_type: source_note
 id: note-0035
+status: draft
 title: dall_e_openai_official
 title_zh: DALL-E官方文档
 source_type: official_website

@@ -1,0 +1,38 @@
+{
+  "name": "@kids-ai-lab/dsh-kids-lab",
+  "version": "0.1.0",
+  "description": "DSH 实验模式：孩子的 AI 实验室。科学馆互动实验、实验工坊（安全检查、实验页生成、写回知识库）；知识库工具来自 @kids-ai-lab/dsh-kids-kb。",
+  "type": "module",
+  "main": "src/settings.js",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": {
+    "node": ">=24",
+    "dsh": ">=0.2.0-rc.2 <0.3.0"
+  },
+  "peerDependencies": {
+    "@deepseek-ai/cordis": "^4.0.2"
+  },
+  "peerDependenciesMeta": {
+    "@deepseek-ai/cordis": {
+      "optional": true
+    }
+  },
+  "keywords": [
+    "dsh-plugin",
+    "kids-ai-lab"
+  ],
+  "dsh": {
+    "manifestVersion": 1,
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "exports": {
+    ".": "./src/settings.js",
+    "./playground": "./src/playground.js",
+    "./workshop": "./src/workshop.js",
+    "./package.json": "./package.json"
+  }
+}

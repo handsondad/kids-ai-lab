@@ -66,7 +66,7 @@ AIDE 是 AI 驱动的 ML 代码优化工具，通过智能体树搜索编写、�
 
 - 与 `tool-0145`（OpenHands）互补，AIDE专注ML优化，OpenHands更通用。
 - 与 `tool-0147`（RD-Agent）竞争，二者都支持Kaggle自动化。
-- 与 `topic-0109`（AI科研自动化）强相关。
+- 与 `topic-0118`（AI科研自动化）强相关。
 
 ## 来源说明
 

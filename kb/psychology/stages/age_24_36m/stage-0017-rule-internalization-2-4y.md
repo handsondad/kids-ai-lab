@@ -1,6 +1,6 @@
 ---
 doc_type: stage_card
-id: stage-0011
+id: stage-0017
 title: rule-internalization-2-4y
 title_zh: 2-4岁孩子的规则意识发展
 status: draft

@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0092
+status: draft
 title: taskweaver_github_overview
 title_zh: TaskWeaver 官方仓库概览
 author: github_bot

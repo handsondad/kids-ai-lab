@@ -55,7 +55,7 @@ WorkBuddy 是一款基于 OpenClaw 架构深度定制的办公场景智能体，
 
 ## 相关主题
 
-- [topic-0106-openclaw-variants-and-nicknames](file:///d:/xiuqinCode/xiuqin/kids-ai-lab/趣味AI知识库/openclaw/workspace/topics/agents/topic-0106-openclaw-variants-and-nicknames.md)
+- [topic-0106-openclaw-variants-and-nicknames](../../topics/agents/topic-0106-openclaw-variants-and-nicknames.md)
 
 ## 来源说明
 

@@ -1,6 +1,6 @@
 ---
 doc_type: support_card
-id: support-0018
+id: support-0054
 title: encourage-not-praise
 title_zh: 用鼓励代替空洞表扬
 status: draft

@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0106
+status: draft
 name: TensorRT-LLM
 title: TensorRT-LLM
 git_url: https://github.com/NVIDIA/TensorRT-LLM

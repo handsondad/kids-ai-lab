@@ -1,6 +1,7 @@
 ---
 doc_type: source_note
 id: note-0033
+status: draft
 title: windsurf_codeium_official
 title_zh: Windsurf (Codeium)官方文档
 source_type: official_website

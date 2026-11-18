@@ -1,5 +1,7 @@
 ---
+doc_type: source_article
 id: article-0094
+status: draft
 title: superagent_github_overview
 title_zh: Superagent 官方仓库概览
 author: github_bot

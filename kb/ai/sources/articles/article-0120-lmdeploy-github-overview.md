@@ -1,6 +1,7 @@
 ---
 doc_type: source_article
 id: article-0120
+status: draft
 title: lmdeploy GitHub Overview
 source_type: github
 source_url: https://github.com/InternLM/lmdeploy

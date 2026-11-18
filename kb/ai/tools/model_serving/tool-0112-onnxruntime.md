@@ -1,5 +1,7 @@
 ---
+doc_type: tool_card
 id: tool-0112
+status: draft
 name: ONNX Runtime
 title: ONNX Runtime
 git_url: https://github.com/microsoft/onnxruntime
