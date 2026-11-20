@@ -46,12 +46,12 @@ dsh/scripts/                 把两个插件装进 DSH Profile 的脚本
 
 ### 加或改卡片
 
-在 DSH 里用知识库模式（会话目录选本仓库），或者手工改：
+在 DSH 里用知识库模式（会话目录选本仓库），或在非 DSH 编码 Agent 下参照 `skills/kb-contribute/SKILL.md`（镜像于 `.agents/skills/kb-contribute/SKILL.md`）：
 
-1. `kb_search` / `kb_read` 查重；已经有就改那张。
-2. `kb_schema`（library、doc_type、slug、subfolder）拿模板、下一个 id 和路径。
+1. `kb_search` / `kb_read`（或直接搜索 `kb/<库id>/`）查重；已经有就改那张。
+2. `kb_schema`（library、doc_type、slug、subfolder），或终端执行 `npm run kb:schema -- <库id> <doc_type> <slug> [--subfolder <...>] [--write]` 拿模板、下一个 id 和路径。
 3. 按模板写，`status: draft`；来源链路和 `related:` 按 `kb/README.md`。
-4. `node dsh/packages/dsh-kids-kb/bin/kb-check.js --library <库id> --warnings`，错误修到 0。
+4. `npm run kb:check -- --library <库id> --warnings`（或 `node dsh/packages/dsh-kids-kb/bin/kb-check.js --library <库id> --warnings`），错误修到 0。
 
 ### 给一个库加卡片类型
 

@@ -6,6 +6,7 @@
   "scripts": {
     "kb:check": "node dsh/packages/dsh-kids-kb/bin/kb-check.js",
     "kb:warnings": "node dsh/packages/dsh-kids-kb/bin/kb-check.js --warnings",
+    "kb:schema": "node dsh/packages/dsh-kids-kb/bin/kb-schema.js",
     "test": "node --test dsh/packages/dsh-kids-kb/tests/*.test.js dsh/packages/dsh-kids-lab/tests/*.test.js",
     "dsh:install": "powershell -NoProfile -ExecutionPolicy Bypass -File dsh/scripts/install-kidslab.ps1"
   },
