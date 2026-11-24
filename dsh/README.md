@@ -23,8 +23,8 @@ DSH 是 DeepSeek Harness（0.2.x，基于 cordis 插件系统）。本仓库给�
 
 ```powershell
 .\dsh\scripts\install-kidslab.ps1                              # 新建 kids-ai-lab Profile，并把实验模式设为默认
-.\dsh\scripts\install-kidslab.ps1 -ModelsFrom pfizer-pharma    # 同上，并从已有 Profile 复制模型配置
-.\dsh\scripts\install-kidslab.ps1 -ProfileName pfizer-pharma   # 给已有 Profile 加上两个模式
+.\dsh\scripts\install-kidslab.ps1 -ModelsFrom my-existing-profile   # 同上，并从已有 Profile 复制模型配置
+.\dsh\scripts\install-kidslab.ps1 -ProfileName my-existing-profile  # 给已有 Profile 加上两个模式
 ```
 
 POSIX：`bash dsh/scripts/install-kidslab.sh [--profile NAME] [--playground DIR] [--models-from PROFILE]`。sci-playground 默认取仓库旁边的 `../sci-playground`，可用 `-PlaygroundRoot` 指定。

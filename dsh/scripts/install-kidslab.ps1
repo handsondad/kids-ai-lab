@@ -7,7 +7,7 @@
     profile (default: kids-ai-lab), and writes the kb/ and sci-playground paths into that profile's own
     cordis.patch.yml. Rerun it after changing either package: DSH installs a copy. Restart DSH Web afterwards.
 .PARAMETER ProfileName
-    DSH profile to install into. Use an existing one (for example pfizer-pharma) to add 实验模式 beside its other modes.
+    DSH profile to install into. Use an existing profile name to add 实验模式 beside its other modes.
 .PARAMETER PlaygroundRoot
     sci-playground checkout. Defaults to the sci-playground folder next to this repository.
 .PARAMETER ModelsFrom
